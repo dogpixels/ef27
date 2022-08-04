@@ -1,0 +1,163 @@
+:root {
+    --palette-cream: #DED0B0;
+    --palette-green: #8FA892;
+    --palette-blue: #589294;
+    --palette-red: #C66249;
+    --palette-brown: #3D2B1F;
+}
+@font-face {
+    /* Permanent Marker by Font Diner Inc.
+    source: https://fonts.google.com/specimen/Permanent+Marker
+    license: ../fonts/PermanentMarker-Regular.LICENSE.txt */
+    font-family: "pm";
+    src: url(../fonts/PermanentMarker-Regular.ttf);
+}
+
+@media (min-width: 1080px) {
+    body {
+        background-image: url(../img/smoke-r.png);
+        background-position: top left;
+        background-repeat: no-repeat;
+    }
+}
+
+header h1 {
+    /* background: transparent url(../img/title.png) 1.15em .25em/contain no-repeat; */
+    color: var(--palette-cream, #fff);
+}
+@media (max-width: 1080px) {
+	header h1 {
+        background-position: 1.75em .3em;
+    }
+}
+
+main {
+    padding-bottom: 50px;
+}
+hr {
+    border: 1px solid var(--palette-green, #fff);
+}
+
+/* fonts */
+nav h1 {
+    color: var(--palette-red, #fff);
+    font-family: "pm";
+}
+h1, h2, h3, h4 {
+    color: var(--palette-cream, #fff);
+    font-family: "pm";
+}
+
+/* colors */
+html {
+    background-color: #000;
+}
+html{
+    color: var(--palette-cream, #fff);
+}
+a {
+    color: var(--palette-blue, #ccc);
+}
+a:hover {
+    color: var(--palette-green, #ccc);
+    text-decoration: none;
+}
+footer {
+    background-color: var(--palette-brown, #000);
+}
+footer h3 {
+    color: var(--palette-cream, #fff);
+}
+footer a {
+    color: var(--palette-cream, #fff);
+}
+h3 {
+    color: var(--palette-cream, #fff);
+}
+em {
+    color: var(--palette-red, #f00);
+}
+
+/* home page */
+#home h1, #home h2 {
+    font-family: 'pm';
+    color: var(--palette-cream, #fff);
+    margin: 0 auto;
+}
+#home h1 {
+    color: var(--palette-red, #fff);
+}
+@media (min-width: 1080px) {
+    main {
+        border-left: 1px solid var(--palette-green, #fff);
+    }
+    #home {
+        position: relative;
+    }
+    #home h1 {
+        font-size: 66.6pt;
+        letter-spacing: normal;
+    }
+    #home div {
+        position: absolute;
+        left: 40px;
+        top: 1em;
+    }
+}
+@media (max-width: 1200px) {
+    #home h2 {
+        font-size: 18pt;
+    }
+}
+@media (max-width: 960px) {
+    #home h1 {
+        font-size: 2.625rem;
+    }
+}
+
+/* news */
+
+#news {
+    background-color: transparent;
+}
+#news article a {
+    border: none;
+    color: var(--palette-cream, #fff);
+    background-color: rgba(0, 0, 0, .3);
+}
+#news article a:hover {
+    color: var(--palette-green, #fff);
+}
+
+/* jobs page */
+.uk-accordion-title {
+    color: var(--palette-blue, #fff);
+    border-top: 1px solid var(--palette-brown, #ccc);
+}
+.uk-accordion-title:hover {
+    color: var(--palette-green, #ccc);
+}
+
+/* website page */
+#artyeen-gallery {
+    max-width: 900px;
+    max-height: 300px;
+}
+
+#ef-badger a[href^="https://chrome.google.com"]::before,
+#ef-badger a[href^="https://addons.mozilla.org"]::before {
+	display: inline-block;
+	position: relative;
+	top: 2px;
+	content: " ";
+	width: 1em;
+	height: 1em;
+	background-size: contain;
+	margin: 0 3px;
+}
+#ef-badger a[href^="https://chrome.google.com"]::before {
+	background-image: url(../img/chrome.png);
+}
+#ef-badger a[href^="https://addons.mozilla.org"]::before {
+	background-image: url(../img/firefox.png);
+}
