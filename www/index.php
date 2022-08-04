@@ -193,6 +193,11 @@
 					<div uk-slideshow="autoplay: true; autoplay-interval: 3000; animation: pull; ratio: 5:2">
 						<ul class="uk-slideshow-items" id="network">
 							<li>
+								<a href="https://fblacklight.org/" target="_blank" class="ef-hide-ext">
+									<img src="img/cons/fbl.gif" alt="Furry Black Light" />
+								</a>
+							</li>
+							<li>
 								<a href="https://gdakon.org/" target="_blank" class="ef-hide-ext">
 									<img src="img/cons/gdakon.gif" alt="Gdakon" />
 								</a>

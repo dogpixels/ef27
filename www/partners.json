@@ -83,11 +83,11 @@
 
 		{
 			"id": "furrybl",
-			"enabled": false,
-			"code": "2022-07-18: 524",
+			"enabled": true,
+			"code": "2022-08-04: 200",
 			"name": "Furry BlackLight",
 			"country": "fr",
-			"banner-source": "https://fblacklight.org/banner/banner_exchange_w_EF.jpg",
+			"banner-source": "https://data.fblacklight.org/uploads/banner_exchange_w_EF_5cd4a81ad7.jpg",
 			"website": "https://fblacklight.org/"
 		}
 	]
