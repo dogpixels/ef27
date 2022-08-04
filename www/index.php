@@ -148,7 +148,7 @@
 
 	<body>
 		<header>
-			<h1><span class="ef-logo"></span>Eurofurence <?= $core->current->number ?></h1>
+			<h1><span class="ef-logo"></span> EUROFURENCE <?= $core->current->number ?></h1>
 		</header>
 		<div class="flex-container">
 			<input type="checkbox" id="nav-state" />
@@ -158,7 +158,7 @@
 			</nav>
 
 			<main class="flex-1">
-				<div id="news" class="js-disabled">JavaScript required to view the latest announcements from Eurofurence.</div>
+				<div id="news" class="uk-flex js-disabled uk-grid-small" uk-grid>JavaScript required to view the latest announcements from Eurofurence.</div>
 				<div id="content">
 					<?= $core->get_content() ?>
 				</div>
@@ -170,8 +170,8 @@
 				<h3>Eurofurence <?= $core->current->number ?></h3>
 				<span><?= $core->current->theme ?></span>
 				<p>
-					Estrel Hotel, Berlin, Germany<br />
-					<?= $core->current->start ?> &ndash; <?= $core->current->end ?>
+					<?= $core->current->location ?><br />
+					<?= $core->current->dates ?>
 				</p>
 			</section>
 			
@@ -179,11 +179,11 @@
 				<h3>Find us on</h3>
 				<div class="uk-button-group">
 					<!-- <a href="home" class="uk-icon-button uk-icon" uk-tooltip="pos:top" title="Homepage" uk-icon="home"></a> -->
-					<a target="_blank" href="https://app.eurofurence.org/" class="uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="iOS & Android" uk-icon="phone"></a>
-					<a target="_blank" href="https://www.twitter.com/eurofurence" class="uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Twitter" uk-icon="twitter"></a> 
-					<a target="_blank" href="https://www.facebook.com/eurofurence" class="uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Facebook" uk-icon="facebook"></a> 
-					<a target="_blank" href="https://vimeo.com/eurofurence" class="uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Vimeo" uk-icon="vimeo"></a>
-					<a target="_blank" href="https://discord.com/invite/VMESBMM" class="uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Discord" uk-icon="discord"></a>
+					<a target="_blank" href="https://app.eurofurence.org/" class="ef-hide-ext uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="iOS & Android" uk-icon="phone"></a>
+					<a target="_blank" href="https://www.twitter.com/eurofurence" class="ef-hide-ext uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Twitter" uk-icon="twitter"></a>
+					<a target="_blank" href="https://www.facebook.com/eurofurence" class="ef-hide-ext uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Facebook" uk-icon="facebook"></a>
+					<a target="_blank" href="https://vimeo.com/eurofurence" class="ef-hide-ext uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Vimeo" uk-icon="vimeo"></a>
+					<a target="_blank" href="https://discord.com/invite/VMESBMM" class="ef-hide-ext uk-icon-button uk-icon" uk-tooltip="pos:bottom" title="Discord" uk-icon="discord"></a>
 				</div>
 			</section>
 
