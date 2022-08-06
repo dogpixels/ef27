@@ -1,7 +1,7 @@
 class NewsAgent
 {
-	static url = "https://forum.eurofurence.org/index.php/board,6.0.html?action=.xml;sa=recent;limit=6";
-	static subjectLength = 32;
+	static url = "https://forum.eurofurence.org/index.php/board,6.0.html?action=.xml;sa=recent;limit=3";
+	static subjectLength = 24;
 
 	static async fetch()
 	{
