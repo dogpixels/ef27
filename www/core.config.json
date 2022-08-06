@@ -94,7 +94,7 @@
 		"home":
 		{
 			"accessible": true,
-			"inMenu": true,
+			"inMenu": false,
 			"menuText": "Home",
 			"category": "Website",
 			"uri": "home.php",
@@ -550,7 +550,7 @@
 		"imprint":
 		{
 			"accessible": true,
-			"inMenu": true,
+			"inMenu": false,
 			"menuText": "Imprint",
 			"category": "Website",
 			"uri": "https://help.eurofurence.org/legal/imprint/",

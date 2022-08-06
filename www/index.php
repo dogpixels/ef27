@@ -148,12 +148,15 @@
 
 	<body>
 		<header>
-			<h1><span class="ef-logo"></span> EUROFURENCE <?= $core->current->number ?></h1>
+			<a href="home"><h1><span class="ef-logo"></span> EUROFURENCE <?= $core->current->number ?></h1></a>
 		</header>
 		<div class="flex-container">
 			<input type="checkbox" id="nav-state" />
 			<label for="nav-state" id="nav-button"></label>
 			<nav>
+				<ul>
+					<li><a href="home"><h1>Home</h1></a></li>
+				</ul>
 				<?= $core->get_menu() ?>
 			</nav>
 
