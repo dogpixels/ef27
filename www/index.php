@@ -155,13 +155,18 @@
 			<label for="nav-state" id="nav-button"></label>
 			<nav>
 				<ul>
-					<li><a href="home"><h1>Home</h1></a></li>
+					<!-- <li><a href="home">🕸 Home</a></li> -->
+					<li><h1>News</h1></li>
+					<ul id="news">
+						<li>JavaScript required to view the latest announcements from Eurofurence.</li>
+					</ul>
 				</ul>
+
 				<?= $core->get_menu() ?>
 			</nav>
 
 			<main class="flex-1">
-				<div id="news" class="uk-flex js-disabled uk-grid-small" uk-grid>JavaScript required to view the latest announcements from Eurofurence.</div>
+				<!-- <div id="news" class="uk-flex js-disabled uk-grid-small" uk-grid>JavaScript required to view the latest announcements from Eurofurence.</div> -->
 				<div id="content">
 					<?= $core->get_content() ?>
 				</div>

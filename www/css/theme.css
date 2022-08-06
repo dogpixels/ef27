@@ -38,10 +38,27 @@ hr {
     border: 1px solid var(--palette-green, #fff);
 }
 
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+nav > ul {
+    padding: 0 30px 20px;
+}
+nav > ul ul {
+    padding-left: 1em;
+}
+
+nav h1, nav a {
+    color: var(--palette-cream, #fff);
+    font-family: sans-serif;
+    font-size: 14pt;
+    margin: 0;
+}
+
 /* fonts */
 nav h1 {
     color: var(--palette-red, #fff);
-    font-family: "pm";
 }
 h1, h2, h3, h4 {
     color: var(--palette-cream, #fff);
@@ -119,14 +136,14 @@ em {
 
 #news {
     background-color: transparent;
+    display: block;
+    margin-bottom: 0;
 }
-#news article a {
-    border: none;
-    color: var(--palette-cream, #fff);
-    background-color: rgba(0, 0, 0, .3);
-}
-#news article a:hover {
-    color: var(--palette-green, #fff);
+
+#news li {
+    max-width: 200px;
+    word-wrap: break-word;
+    white-space: normal;
 }
 
 /* jobs page */

@@ -74,7 +74,7 @@ main {
 	max-width: 1500px;
 }
 
-/* news */
+/* news 
 #news {
 	display: flex;
 	margin-bottom: 1em;
@@ -99,6 +99,7 @@ main {
 	right: 0;
 	bottom: 4px;
 }
+*/
 
 /* footer */
 footer {
