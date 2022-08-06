@@ -22,6 +22,10 @@ class NewsAgent
 			return ret;
 		}
 
+		let limiter = new Date();
+		limiter.setFullYear(limiter.getFullYear() - 1);
+		limiter = limiter.getTime() / 1000;
+
 		for (let i = 0; i < responseXML.documentElement.children.length; i++)
 		{
 			const item = responseXML.documentElement.children[i];
@@ -40,6 +44,13 @@ class NewsAgent
 				+time.substr(12, 2),	// hour
 				+time.substr(15, 2)		// minute
 			) / 1000;
+
+
+			if (timestamp < limiter)
+			{
+				console.info(`[EF-Web NewsAgent] skipping news from ${timestamp} because it's older than one year`, item);
+				continue;
+			}
 
 			// define subject
 			let subject =
