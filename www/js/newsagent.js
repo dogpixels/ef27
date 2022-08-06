@@ -35,14 +35,14 @@ class NewsAgent
 			const link_raw = item.children[8].textContent;
 
 			// define time
-			let time = time_raw.substr(0, 17); // DD.MM.YYYY, HH:mm:ss => DD.MM.YYYY, HH:mm
+			let time = time_raw.substring(0, 17); // DD.MM.YYYY, HH:mm:ss => DD.MM.YYYY, HH:mm
 
 			let timestamp = Date.UTC(
-				+time.substr(6, 4),		// year
-				+time.substr(3, 2) - 1,	// month
-				+time.substr(0, 2),		// day
-				+time.substr(12, 2),	// hour
-				+time.substr(15, 2)		// minute
+				+time.substring(6, 10),		// year
+				+time.substring(3, 5) - 1,	// month
+				+time.substring(0, 2),		// day
+				+time.substring(12, 14),	// hour
+				+time.substring(15, 17)		// minute
 			) / 1000;
 
 
@@ -56,7 +56,7 @@ class NewsAgent
 			let subject =
 				subject_raw.length <= NewsAgent.subjectLength ? 
 				subject_raw : 
-				subject_raw.substr(0, subject_raw.lastIndexOf(" ", NewsAgent.subjectLength)) + "…";
+				subject_raw.substring(0, subject_raw.lastIndexOf(" ", NewsAgent.subjectLength)) + "…";
 			
 			// define link
 			let link = link_raw;
