@@ -1,7 +1,7 @@
 class NewsAgent
 {
 	static url = "https://forum.eurofurence.org/index.php/board,6.0.html?action=.xml;sa=recent;limit=3";
-	static subjectLength = 24;
+	static subjectLength = 36;
 
 	static async fetch()
 	{
@@ -111,9 +111,12 @@ window.addEventListener("load", async () =>
 	}
 
 	document.body.dispatchEvent(new CustomEvent("newsLoaded"));
+
+	// expand main to avoid cutting off nav on short pages
+	document.getElementById("main").style.height = 
+	document.getElementById("nav").clientHeight + "px";	
 });
 
-/* for testing purposes only
 
 setTimeout(() => {
 	news.innerText = "";
@@ -158,4 +161,3 @@ setTimeout(() => {
 	])
 }, 1000);
 
-*/

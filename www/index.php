@@ -148,30 +148,25 @@
 
 	<body>
 		<header>
-			<a href="home"><h1><span class="ef-logo"></span> EUROFURENCE <?= $core->current->number ?></h1></a>
+			<a href="home"><h1>EUROFURENCE <?= $core->current->number ?></h1></a>
 		</header>
-		<div class="flex-container">
-			<input type="checkbox" id="nav-state" />
-			<label for="nav-state" id="nav-button"></label>
-			<nav>
-				<ul>
-					<!-- <li><a href="home">🕸 Home</a></li> -->
-					<li><h1>News</h1></li>
-					<ul id="news">
-						<li>JavaScript required to view the latest announcements from Eurofurence.</li>
-					</ul>
+		<input type="checkbox" id="nav-state" />
+		<label for="nav-state" id="nav-button"></label>
+		
+		<nav id="nav">
+			<?= $core->get_menu() ?>
+			<ul>
+				<!-- <li><a href="home">🕸 Home</a></li> -->
+				<li><h1>News</h1></li>
+				<ul id="news">
+					<li>JavaScript required to view the latest announcements from Eurofurence.</li>
 				</ul>
+			</ul>
+		</nav>
 
-				<?= $core->get_menu() ?>
-			</nav>
-
-			<main class="flex-1">
-				<!-- <div id="news" class="uk-flex js-disabled uk-grid-small" uk-grid>JavaScript required to view the latest announcements from Eurofurence.</div> -->
-				<div id="content">
-					<?= $core->get_content() ?>
-				</div>
-			</main>
-		</div>
+		<main id="main">
+			<?= $core->get_content() ?>
+		</main>
 		
 		<footer>
 			<section>
