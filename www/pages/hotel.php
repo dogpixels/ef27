@@ -58,12 +58,12 @@
 				</ul>
 			</div>
 			<div class="uk-card-footer">
-				<strong>Price:</strong>
-				<ul>
+				<strong>Price: TBA</strong>
+				<!-- <ul>
 					<li>Single person &euro;&nbsp;115,00/Night</li>
 					<li>Two persons &euro;&nbsp;140,00/Night</li>
 					<li>Three persons &euro;&nbsp;215,00/Night</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
@@ -74,12 +74,12 @@
 				</ul>
 			</div>
 			<div class="uk-card-footer">
-				<strong>Price:</strong>
-				<ul>
+				<strong>Price: TBA</strong>
+				<!-- <ul>
 					<li>Single person &euro;&nbsp;130,00/Night</li>
 					<li>Two persons &euro;&nbsp;160,00/Night</li>
 					<li>Three persons &euro;&nbsp;230,00/Night</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
@@ -93,12 +93,12 @@
 				</ul>
 			</div>
 			<div class="uk-card-footer">
-				<strong>Price:</strong>
-				<ul>
+				<strong>Price: TBA</strong>
+				<!-- <ul>
 					<li>Single person &euro;&nbsp;178,00/Night</li>
 					<li>Two persons &euro;&nbsp;198,00/Night</li>
 					<li>Three persons &euro;&nbsp;260,00/Night</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
@@ -112,12 +112,12 @@
 				</ul>
 			</div>
 			<div class="uk-card-footer">
-				<strong>Price:</strong>
-				<ul>
+				<strong>Price: TBA</strong>
+				<!-- <ul>
 					<li>Single person &euro;&nbsp;198,00/Night</li>
 					<li>Two persons &euro;&nbsp;228,00/Night</li>
 					<li>Three persons &euro;&nbsp;290,00/Night</li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</div>
