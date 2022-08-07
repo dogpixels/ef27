@@ -12,13 +12,10 @@
     font-family: "pm";
     src: url(../fonts/PermanentMarker-Regular.ttf);
 }
-
-@media (min-width: 1080px) {
-    body {
-        background-image: url(../img/smoke-r.png);
-        background-position: top left;
-        background-repeat: no-repeat;
-    }
+body {
+    background-image: url(../img/smoke-r.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
 }
 
 header h1 {
@@ -144,6 +141,8 @@ em {
     max-width: 200px;
     word-wrap: break-word;
     white-space: normal;
+    margin-bottom: 8px;
+    line-height: 1.1;
 }
 
 /* jobs page */
