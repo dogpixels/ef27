@@ -4,7 +4,7 @@
         <h2><?= $this->current->dates ?></h2>
         <h2><?= $this->current->location ?></h2>
     </div>
-    <img src="pages/home/blackmagic_by_kur0.jpg" alt="Black Magic Banner Image" />
+    <!-- <img src="pages/home/blackmagic_by_kur0.jpg" alt="Black Magic Banner Image" /> -->
 </div>
 
 <div class="uk-column-1-2@l uk-margin-top">

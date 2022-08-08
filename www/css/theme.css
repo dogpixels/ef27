@@ -13,10 +13,16 @@
     src: url(../fonts/PermanentMarker-Regular.ttf);
 }
 body {
-    background-image: url(../img/smoke-r.jpg);
-    background-position: top left;
+    background-image: url(../pages/home/blackmagic_by_kur0.jpg);
+    background-size: cover;
     background-attachment: fixed;
+    background-position: bottom;
     background-repeat: no-repeat;
+}
+#content {
+    padding: 50px;
+    background-color: rgba(0, 0, 0, .8);
+    min-height: 90vh;
 }
 
 header h1 {
@@ -38,18 +44,31 @@ nav > ul {
 nav > ul ul {
     padding-left: 1em;
 }
-
-nav h1, nav a {
+nav a {
     color: var(--palette-cream, #fff);
     font-size: 14pt;
     margin: 0;
+}
+nav h1 {
+    font-size: 21pt;
+}
+#ef-homelink {
+    display: inline-block;
+    height: 72px;
+    width: 100%;
+    background-image: url(../img/logo.png);
+    background-size: 64px 64px;
+    background-position: 10px 0;
+    background-repeat: no-repeat;
+    padding: 13px 10px 0 86px;
+    font-size: 21pt;
 }
 
 /* news */
 #news {
     background-color: transparent;
     display: block;
-    margin-bottom: 0;
+    padding-bottom: 100px;
 }
 
 #news li {
@@ -61,25 +80,23 @@ nav h1, nav a {
 }
 
 /* fonts */
-nav h1 {
-    color: var(--palette-red, #fff);
-}
-h1, h2, h3, h4 {
+
+h1, h2, h3, h4, #ef-homelink {
     color: var(--palette-cream, #fff);
     font-family: "pm";
 }
+nav h1, #ef-homelink {
+    color: var(--palette-red, #fff);
+}
 
 /* colors */
-html {
-    background-color: #000;
-}
 html{
     color: var(--palette-cream, #fff);
 }
 a {
     color: var(--palette-blue, #ccc);
 }
-a:hover {
+a:hover, #ef-homelink:hover {
     color: var(--palette-green, #ccc);
     text-decoration: none;
 }
@@ -100,8 +117,15 @@ em {
 }
 
 /* home page */
+main.ef-landingpage {
+    padding-top: 100vh;
+}
 #home {
-    position: relative;
+    position: absolute;
+    top: -20px;
+    left: 10px;
+    padding: 20px;
+    padding-left: var(--menu-button-width, 100);
 }
 #home h1, #home h2 {
     font-family: 'pm';
@@ -110,12 +134,6 @@ em {
 }
 #home h1 {
     color: var(--palette-red, #fff);
-}
-
-#home div {
-    position: absolute;
-    padding: 20px;
-    padding-left: var(--menu-button-width, 100);
 }
 
 /* jobs page */

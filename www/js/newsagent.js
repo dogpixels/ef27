@@ -113,8 +113,8 @@ window.addEventListener("load", async () =>
 	document.body.dispatchEvent(new CustomEvent("newsLoaded"));
 
 	// expand main to avoid cutting off nav on short pages
-	document.getElementById("main").style.height = 
-	document.getElementById("nav").clientHeight + "px";	
+	// document.getElementById("main").style.height = 
+	// document.getElementById("nav").clientHeight + "px";
 });
 
 

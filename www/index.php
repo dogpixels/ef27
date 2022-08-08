@@ -142,8 +142,8 @@
 
 		<link rel="stylesheet" href="css/uikit.min.css" />
 		<link rel="stylesheet" href="css/main.css" />
-		<link rel="stylesheet" href="css/responsive.css" />
 		<link rel="stylesheet" href="css/theme.css" />
+		<link rel="stylesheet" href="css/responsive.css" />
 	</head>
 
 	<body>
@@ -154,9 +154,9 @@
 		<label for="nav-state" id="nav-button"></label>
 		
 		<nav id="nav">
+			<a href="home" id="ef-homelink">Back to the Portal</a>
 			<?= $core->get_menu() ?>
 			<ul>
-				<!-- <li><a href="home">🕸 Home</a></li> -->
 				<li><h1>News</h1></li>
 				<ul id="news">
 					<li>JavaScript required to view the latest announcements from Eurofurence.</li>
@@ -164,8 +164,10 @@
 			</ul>
 		</nav>
 
-		<main id="main">
-			<?= $core->get_content() ?>
+		<main id="main"<?= ($core->current->menuText === 'Home'? ' class="ef-landingpage"' : '') ?>>
+			<div id="content">
+				<?= $core->get_content() ?>
+			</div>
 		</main>
 		
 		<footer>
