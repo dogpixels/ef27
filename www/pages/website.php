@@ -22,7 +22,7 @@
 		</div>
 	</div>
 </section>
-
+<!--
 <hr />
 
 <section class="uk-column-1-2@l">
@@ -39,7 +39,7 @@
 		</ul>
 	</div>
 </section>
-
+-->
 <hr />
 
 <section>
