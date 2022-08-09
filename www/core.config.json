@@ -39,7 +39,7 @@
 		"templates":
 		{
 			"lastModified": " data-lastmodified=\"{timestamp}\"",
-			"nav": "<ul>{categories}</ul>",
+			"nav": "{categories}",
 			"category": "<li><h1>{title}</h1><ul>{items}</ul></li>",
 			"item": "<li><a href=\"{href}{hrefSuffix}\" class=\"{ifActiveClass}\"{externalTarget}{lastModified}>{menuText}</a></li>"
 		},

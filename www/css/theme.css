@@ -49,20 +49,6 @@ nav a {
     font-size: 14pt;
     margin: 0;
 }
-nav h1 {
-    font-size: 21pt;
-}
-#ef-homelink {
-    display: inline-block;
-    height: 72px;
-    width: 100%;
-    background-image: url(../img/logo.png);
-    background-size: 64px 64px;
-    background-position: 10px 0;
-    background-repeat: no-repeat;
-    padding: 13px 10px 0 86px;
-    font-size: 21pt;
-}
 
 /* news */
 #news {
@@ -80,13 +66,14 @@ nav h1 {
 }
 
 /* fonts */
-
 h1, h2, h3, h4, #ef-homelink {
     color: var(--palette-cream, #fff);
     font-family: "pm";
 }
 nav h1, #ef-homelink {
     color: var(--palette-red, #fff);
+    font-size: 21pt;
+    margin: 0;
 }
 
 /* colors */
