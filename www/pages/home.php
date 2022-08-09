@@ -1,13 +1,13 @@
 <div id="home">
-    <div>
-        <h1><?= $this->current->theme ?></h1>
-        <h2><?= $this->current->dates ?></h2>
-        <h2><?= $this->current->location ?></h2>
-    </div>
-    <!-- <img src="pages/home/blackmagic_by_kur0.jpg" alt="Black Magic Banner Image" /> -->
+    <div></div>
+    <h1><?= $this->current->theme ?></h1>
+    <h2><?= $this->current->dates ?></h2>
+    <h2><?= $this->current->location ?></h2>
 </div>
 
-<div class="uk-column-1-2@l uk-margin-top">
+
+<div class="uk-column-1-2@l uk-margin-top landingpage-content-start">
+    <div id="scrolldown"><h1>Scroll Down</h1></div>
     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel arcu et quam condimentum vestibulum tristique vel felis. Pellentesque ornare id nisi ut posuere. Ut volutpat ultricies nibh. Sed nec molestie eros. Fusce aliquet finibus maximus. Sed molestie neque vitae quam sagittis fringilla. Sed sed sapien a ligula luctus maximus sed vitae massa. Duis varius nisl id mi congue, vitae blandit nibh eleifend. Vivamus est urna, consectetur in orci a, imperdiet mattis dolor. Aenean mauris augue, ullamcorper sed urna in, placerat viverra diam. Praesent ac odio ut turpis ultrices pellentesque. Cras lacinia ante rutrum, ultricies risus vel, mollis ante. Maecenas et egestas nulla. In vestibulum, ante quis blandit posuere, massa sapien facilisis justo, nec ullamcorper elit lorem eu ante.</p>
     <p>Vestibulum magna leo, ullamcorper et sapien nec, molestie tempus velit. Ut imperdiet vestibulum blandit. Suspendisse aliquam vulputate nisl, id placerat dui volutpat ut. Duis at odio quis lorem maximus pharetra ut sed massa. Phasellus odio nunc, aliquam quis enim at, gravida viverra orci. Ut egestas neque a dictum tristique. Duis pellentesque ut justo ut imperdiet. Phasellus id purus ac massa commodo volutpat in et elit. Quisque varius a massa sit amet lobortis.</p>
 </div>

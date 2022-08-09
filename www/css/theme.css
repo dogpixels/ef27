@@ -12,13 +12,7 @@
     font-family: "pm";
     src: url(../fonts/PermanentMarker-Regular.ttf);
 }
-body {
-    background-image: url(../pages/home/blackmagic_by_kur0.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: bottom;
-    background-repeat: no-repeat;
-}
+
 #content {
     padding: 50px;
     background-color: rgba(0, 0, 0, .8);
@@ -34,6 +28,9 @@ hr {
 }
 
 /* nav */
+nav > h1 {
+    text-align: center;
+}
 nav ul {
     padding: 0;
     margin: 0;
@@ -64,6 +61,29 @@ nav a {
     margin-bottom: 8px;
     line-height: 1.1;
 }
+
+/* vertically scrollable attempt */
+/* #news {
+    display: flex;
+    background-color: transparent;
+    padding-bottom: 100px;
+    overflow: auto;
+    max-width: 300px;
+    padding: 0;
+    flex-flow: row nowrap;
+}
+
+#news li {
+    display: block;
+    margin-bottom: 8px;
+    line-height: 1.1;
+    padding: 8px;
+    border: 1px solid var(--palette-cream);
+    margin: 16px 8px 100px;
+    max-width: 9em;
+    word-wrap: break-word;
+} */
+
 
 /* fonts */
 h1, h2, h3, h4, #ef-homelink {
@@ -110,7 +130,7 @@ main.ef-landingpage {
 #home {
     position: absolute;
     top: -20px;
-    left: 10px;
+    left: 150px;
     padding: 20px;
     padding-left: var(--menu-button-width, 100);
 }
@@ -121,6 +141,41 @@ main.ef-landingpage {
 }
 #home h1 {
     color: var(--palette-red, #fff);
+    font-size: 66.6pt;
+    letter-spacing: 2pt;
+}
+#home div {
+    position: absolute;
+    left: -140px;
+    top: 30px;
+    width: 200px;
+    height: 200px;
+    background: transparent url(../img/fleeks_ef27_logo.png) no-repeat center;
+    background-size: contain;
+}
+.landingpage-content-start {
+    position: relative;
+}
+#scrolldown {
+    position: absolute;
+    width: 100%;
+    top: -200px;
+    text-align: center;
+    animation: scrolldown-appear 3s forwards 3s 1;
+    opacity: 0;
+}
+#scrolldown h1 {
+    animation: pulse 8s infinite;
+    text-shadow: 0 0 8px #000;
+}
+@keyframes pulse {
+      0% {color: var(--palette-cream)}
+    50% {color: var(--palette-red)}
+    100% {color: var(--palette-cream)}
+}
+@keyframes scrolldown-appear {
+    0% {opacity: 0}
+    100% {opacity: 1}
 }
 
 /* jobs page */

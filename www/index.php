@@ -148,19 +148,21 @@
 
 	<body>
 		<header>
-			<a href="home"><h1>EUROFURENCE <?= $core->current->number ?></h1></a>
+			<h1>EUROFURENCE <?= $core->current->number ?></h1>
 		</header>
 		<input type="checkbox" id="nav-state" />
 		<label for="nav-state" id="nav-button"></label>
 		
 		<nav id="nav">
-			<ul>
-				<li><a href="home" id="ef-homelink">Back to the Portal</a></li>
+			<h1><a href="home" id="ef-homelink">🕸 Back to the Portal 🕸</a></h1>
+			<hr />
+			<ul class="uk-column-1-2@m">				
 				<?= $core->get_menu() ?>
-				<li><h1>News</h1></li>
-				<ul id="news">
-					<li>JavaScript required to view the latest announcements from Eurofurence.</li>
-				</ul>
+			</ul>
+			<hr />
+			<h1>News</h1>
+			<ul id="news">
+				<li>JavaScript required to view the latest announcements from Eurofurence.</li>
 			</ul>
 		</nav>
 
