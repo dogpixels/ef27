@@ -57,6 +57,7 @@
 			['Vinaru', 'Banner Exchange &amp; Graphics', 'vinaru.png', 'https://twitter.com/Vinaru'],
 			['Fenmar', 'Archive', 'fenmar.png', 'https://fenmar.de/'],
 			['Sebin', 'Feedback Management', 'sebin.png', 'https://twitter.com/SebinNyshkim'],
+			['Fleeks', 'Logo Design', 'fleeks.png', 'https://fleeks.art/']
 		];
 
 		foreach ($members as $m) { ?>
