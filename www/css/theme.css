@@ -47,20 +47,6 @@ nav a {
     margin: 0;
 }
 
-/* news */
-#news {
-    background-color: transparent;
-    display: block;
-    padding-bottom: 100px;
-}
-
-#news li {
-    max-width: 300px;
-    word-wrap: break-word;
-    white-space: normal;
-    margin-bottom: 8px;
-    line-height: 1.1;
-}
 
 /* vertically scrollable attempt */
 /* #news {
@@ -155,6 +141,9 @@ main.ef-landingpage {
 }
 .landingpage-content-start {
     position: relative;
+}
+.landingpage-content-start p:nth-of-type(1) {
+    margin-top: 0;
 }
 #scrolldown {
     position: absolute;

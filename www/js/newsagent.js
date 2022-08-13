@@ -1,6 +1,6 @@
 class NewsAgent
 {
-	static url = "https://forum.eurofurence.org/index.php/board,6.0.html?action=.xml;sa=recent;limit=3";
+	static url = "https://forum.eurofurence.org/index.php/board,6.0.html?action=.xml;sa=recent;limit=6";
 	static subjectLength = 36;
 
 	static async fetch()
@@ -45,7 +45,6 @@ class NewsAgent
 				+time.substring(15, 17)		// minute
 			) / 1000;
 
-
 			if (timestamp < limiter)
 			{
 				console.info(`[EF-Web NewsAgent] skipping news from ${timestamp} because it's older than one year`, item);
@@ -64,8 +63,6 @@ class NewsAgent
 			ret.push({time: time, timestamp: timestamp, subject: subject, link: link});
 		}
 
-		// console.info("[EF-Web NewsAgent] Results:", ret);
-
 		return ret;
 	}
 
@@ -73,7 +70,6 @@ class NewsAgent
 		for (let i = 0; i < items.length; i++)
 		{
 			const item = items[i];
-			// news.innerHTML += `<article><a href="${item.link}" target="_blank" data-lastmodified="${item.timestamp}"><cite>${item.subject}</cite><time>${item.time}</time></a></article>`;
 			news.innerHTML += `<li><a href="${item.link}" target="_blank" data-lastmodified="${item.timestamp}"><cite>${item.subject}</cite></a></li>`;
 		}
 	}
@@ -111,13 +107,9 @@ window.addEventListener("load", async () =>
 	}
 
 	document.body.dispatchEvent(new CustomEvent("newsLoaded"));
-
-	// expand main to avoid cutting off nav on short pages
-	// document.getElementById("main").style.height = 
-	// document.getElementById("nav").clientHeight + "px";
 });
 
-
+/*
 setTimeout(() => {
 	news.innerText = "";
 	NewsAgent.fill(
@@ -160,4 +152,4 @@ setTimeout(() => {
 		}
 	])
 }, 1000);
-
+*/
