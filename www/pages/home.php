@@ -8,8 +8,25 @@
 
 <div class="uk-column-1-2@l uk-margin-top landingpage-content-start">
     <a href="#content" id="scrolldown" uk-scroll="offset: 50"><h1>Scroll Down</h1></a>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vel arcu et quam condimentum vestibulum tristique vel felis. Pellentesque ornare id nisi ut posuere. Ut volutpat ultricies nibh. Sed nec molestie eros. Fusce aliquet finibus maximus. Sed molestie neque vitae quam sagittis fringilla. Sed sed sapien a ligula luctus maximus sed vitae massa. Duis varius nisl id mi congue, vitae blandit nibh eleifend. Vivamus est urna, consectetur in orci a, imperdiet mattis dolor. Aenean mauris augue, ullamcorper sed urna in, placerat viverra diam. Praesent ac odio ut turpis ultrices pellentesque. Cras lacinia ante rutrum, ultricies risus vel, mollis ante. Maecenas et egestas nulla. In vestibulum, ante quis blandit posuere, massa sapien facilisis justo, nec ullamcorper elit lorem eu ante.</p>
-    <p>Vestibulum magna leo, ullamcorper et sapien nec, molestie tempus velit. Ut imperdiet vestibulum blandit. Suspendisse aliquam vulputate nisl, id placerat dui volutpat ut. Duis at odio quis lorem maximus pharetra ut sed massa. Phasellus odio nunc, aliquam quis enim at, gravida viverra orci. Ut egestas neque a dictum tristique. Duis pellentesque ut justo ut imperdiet. Phasellus id purus ac massa commodo volutpat in et elit. Quisque varius a massa sit amet lobortis.</p>
+
+    <p>The forest has gone eerily quiet the deeper you've wandered into it. It had seemed a bit of a laugh, back at the village inn, when they told you about the strange ancient forest and the dark energies gathering there. Old folks' tales, fed by generations of superstitions easily explained away by modern science.<br />
+    Now, in the unnatural quiet surrounded by strange, gnarled trees, you can't help but feel a little uneasy. There is always some truth to fairy tales after all.</p>
+
+    <p>You push on through the ever more dense undergrowth, determined to at least see that mysterious heart of the forest. You are so focused on telling yourself that the stillness of those ancient trees around you is probably perfectly normal, you find yourself stumbling over your own feet and end up in a heap on the forest floor.</p>
+
+    <p>It is not quiet anymore.</p>
+
+    <p>You feel as if you're waking up from a deep sleep, struggling to make sense of everything around you. In front of you is a tall, dark creature with piercing yellow eyes, holding what appears to be a handful of gemstones. They observe you with a polite interest, a slow smile with too many teeth coming over their face. They extend their hand towards an open space with flickering lights strung haphazardly around the trees.</p>
+
+    <p class="uk-text-italic">What you seek is there!</p>
+
+    <p>Scrambling to get up as the voice is suddenly in your head, you want to ask the creature where you are and what they are doing, but they've already left, leaving behind a strong scent of sage. Almost automatically, you move to what must be the heart of the forest.</p>
+
+    <p>It is a feast. As far as the eye can see, there are creatures of every possible variety, stalls with many wondrous and unusual items, and the air is rich with the noises of conversations in many languages. There are animals twisting and twirling their bodies amidst colourful lights, the drum going ever faster while they lose themselves in the music. Others sit around a fire, exchanging stories and sharing drinks.</p>
+
+    <p>It feels like home.</p>
+
+    <p>You wander deeper into the heart of the forest. You will not be back to the village for quite some time, it seems.</p>
 </div>
 
 <hr />
