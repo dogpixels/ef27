@@ -46,7 +46,7 @@
 				['Fleeks', 'Logo Design', 'fleeks.png', 'https://fleeks.art/'],
 				['Sebin', 'Feedback Management', 'sebin.png', 'https://twitter.com/SebinNyshkim'],
 				['Sithy', 'Writing', 'sithy.png', 'https://twitter.com/MxSithy'],
-				['Vinaru', 'Banner Exchange &amp; Graphics', 'vinaru.png', 'https://twitter.com/Vinaru'],
+				['Vinaru', 'Banner Exchange', 'vinaru.png', 'https://twitter.com/Vinaru'],
 			];
 
 			foreach ($members as $m) { ?>
