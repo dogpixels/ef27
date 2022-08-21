@@ -67,11 +67,6 @@
     </div>
 
     <div>
-        <h3>Your Way to Eurofurence</h3>
-        <p>You won't be left alone to find your way to the convention. Our <a href="hotel/travel">Travel Guide</a> provides useful information on how to get to Berlin and the Hotel itself, where to park your car, how much it costs, and so on.<br />This page is being updated more frequently as the convention draws near, so make sure to check back for updates!</p>
-    </div>
-
-    <div>
         <h3>At the Convention</h3>
         <p>Once arrived at the convention, there are two very first things to do in no particular order:</p>
         <ul>
