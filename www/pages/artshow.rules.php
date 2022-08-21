@@ -19,7 +19,7 @@
 
 <hr />
 
-<section class="just">
+<section>
 	<h2>Costs and Charges</h2>
 	<p>Good news: The EF Art Show is for free. Eurofurence offers the Art Show as a complimentary service 
     to artists. We do not charge a fee for panels or a percentage of the sales. The Art Show is financed by 
@@ -28,7 +28,7 @@
     necessary space, panels, and security personnel. That means:</p>
 </section>
 
-<section class="two_columns just">
+<section class="uk-column-1-2@l">
     <ol>
       <li><strong>There is no insurance involved.</strong> Of course there is security present to guard the Art Show. There 
       is a computer system to keep track of exhibits. And of course the managers will help you identifying 
@@ -52,13 +52,13 @@
 
 <hr />
 
-<section class="just">
-	<h2><a class="anchor" name="content" id="content"></a>Contents / Prohibited Topics</h2>
+<section>
+	<h2><a name="prohibited" id="prohibited"></a>Contents / Prohibited Topics</h2>
     <p>There are some requirements regarding artwork for display, both technical and content related. Since some of 
     these rules are enforced by law, it is necessary to know them.</p>
 </section>
 
-<section class=" two_columns just">
+<section class="uk-column-1-2@l">
 	   <ol>
 		  <li>The general topic is &quot;furry&quot;. That makes some kind of animal connection mandatory. Art that features 
 		  just humans is not furry (even if you count the fact that humans are animals too). Wildlife/animal art is permitted. 
@@ -127,7 +127,7 @@
 		</ol>
 </section>
 
-<section class="just"> 
+<section> 
     <p>Regardless of rules, the Art Show managers have the final say in what is allowed and what's not. Note that in spite of all 
     those rules, the Eurofurence Art Show allows a lot of explicit, adult, or even fetish artwork. To avoid conflicts about 
     objectionable and offensive artwork, the managers reserve the right to refuse displaying single pieces of art.</p>
@@ -135,11 +135,11 @@
 
 <hr />
 
-<section class="just">
-	<h2><a class="anchor" name="rating" id="rating"></a>Age Rating in the Art Show</h2>
+<section>
+	<h2><a name="rating" id="rating"></a>Age Rating in the Art Show</h2>
 </section>
 
-<section class="two_columns just">
+<section class="uk-column-1-2@l">
 	<div class="retain">
 		<p>Since some guests of Eurofurence may not want to look at the more adult part of the show, and some &quot;clean&quot; 
 		artists may not feel comfortable to be displayed next to explicit artwork, the show will be divided into two separate sections 
@@ -171,13 +171,13 @@
 
 <hr />
 
-<section class="just">
-	<h2><a class="anchor" name="display" id="display"></a>Display Rules</h3>
+<section>
+	<h2><a name="display" id="display"></a>Display Rules</h3>
     <p>The Eurofurence Art Show has a number of technical requirements and rules governing the
     displays.</p>
 </section>
 
-<section class="two_columns just">
+<section class="uk-column-1-2@l">
     <ol>
       <li>Only the panels, tables, etc., that are provided by Eurofurence are allowed as display space. 
       If you need some kind of special stand, contact us beforehand whether this is possible. It might not
@@ -205,11 +205,11 @@
 
 <hr />
 
-<section class="just">
+<section>
     <p>For a full discussion on the technical details, please consult the Artist Guide section.</p>
 </section>
 
-<section class="just">
+<section>
 	<h2>Read on:</h3>
     <p><a href="artshow/signup" rel="prev">Artist Sign-Up</a> | <a href="artshow/guide" rel="next">Artist Guide</a></p>
 </section>
