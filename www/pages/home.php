@@ -101,5 +101,5 @@
 </div>
 
 <div class="uk-margin-top uk-text-center uk-visible@m">
-    <img src="pages/home/moonmew_by_kur0.jpg" alt="" />
+    <img src="img/pages/home/moonmew_by_kur0.jpg" alt="" />
 </div>

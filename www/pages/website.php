@@ -13,7 +13,7 @@
 					for ($i = 0; $i <= 6; $i++) { ?>
 						<li>
 							<a href="pages/website/featured/<?= $i ?>.jpg">
-								<img src="pages/website/featured/<?= $i ?>_thumb.jpg" alt="Image by ArtYeen">
+								<img src="img/pages/website/featured/<?= $i ?>_thumb.jpg" alt="Image by ArtYeen">
 							</a>
 						</li>
 					<?php } ?>
@@ -52,7 +52,7 @@
 			foreach ($members as $m) { ?>
 				<a href="<?= $m[3] ?>" target="_blank" class="ef-hide-ext uk-width-medium">
 					<div>
-						<img src="pages/website/<?= $m[2] ?>" alt="<?= $m[2] ?>" />
+						<img src="img/pages/website/<?= $m[2] ?>" alt="<?= $m[2] ?>" />
 						<h3><?= $m[0] ?></h3>
 						<span><?= $m[1] ?></span>
 					</div>

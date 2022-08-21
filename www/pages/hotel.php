@@ -5,7 +5,7 @@
 			<p><strong>Our venue this year is once more the amazing Estrel Hotel in Berlin. It features a large amount of rooms, restaurants, and a lot of convention space to roam around it. The Estrel offers a welcoming, home away from home atmosphere all set up for Eurofurence.</strong></p>
 			<p>The Estrel Hotel Berlin is the biggest convention center and hotel in Europe. Home to 1,125 comfortable rooms and luxury suites, the Estrel offers us all the convention space we need and then some. Arriving at the hotel you enter through the spacious lobby which makes you feel right at home. The lobby has plenty of space to lounge around, meet up with friends, have a drink or just enjoy all the fursuits passing by. The Estrel has everything you need located within the hotel and convention center so that you’ll never need to stray far from the action.</p>
 			<p>Directly connected to the hotel is the Estrel convention center. Are you worried EF will run out of space? Worry not! This convention center features a main hall that alone will host 6000 people comfortably. In addition to the main hall, the Estrel has 60 more convention rooms for a grand total of 15,000 m² convention space. Each convention room features all the latest techniques and climate control so it’ll be no problem to attend events in fursuit. As if all of this wasn’t enough space, the hotel also connects to the Estrel Festival Center which hosts daily live shows.</p>
-			<img src="pages/hotel/header.jpg" alt="" />
+			<img src="img/pages/hotel/header.jpg" alt="" />
 		
 	
 		<div>
@@ -140,7 +140,7 @@
 <section>
 	<h2>Restaurants</h2>
 	<p>Next to offering us all this space, the Estrel is also home to several restaurants offering a wide variety of food. With three restaurants to choose from, you’re sure to find something to your liking.</p>
-	<p class="uk-visible@m"><img src="pages/hotel/restaurants.jpg" alt="Restaurants inside the hotel" /></p>
+	<p class="uk-visible@m"><img src="img/pages/hotel/restaurants.jpg" alt="Restaurants inside the hotel" /></p>
 
 	<div class="uk-grid-small uk-grid-match uk-child-width-1-2@l uk-child-width-1-4@xl" uk-grid>
 		<div>
@@ -178,7 +178,7 @@
 <section>
 	<h2>Bars</h2>
 	<p>So, where to go after dinner? You won't need to look far! The Estrel has three bars ready to offer you a cold drink.</p>
-	<p class="uk-visible@m"><img src="pages/hotel/bars.jpg" alt="Estrel main bar" /></p>
+	<p class="uk-visible@m"><img src="img/pages/hotel/bars.jpg" alt="Estrel main bar" /></p>
 
 	<div class="uk-grid-small uk-grid-match uk-child-width-1-3@m" uk-grid>	
 		<div>
@@ -207,7 +207,7 @@
 <section>
 	<h2>Exterior Hotel Area</h2>
 	<p>The Estrel entrance is opposite our Summer Garden on the water – the premiere outdoor meeting spot on Sonnenallee. The Summer Garden is home to majestic, shady chestnut trees, a terrace-shaped stairway offering amphitheatre-like seating, a fountain, a snack pavilion and a landing pier. We will also host the daily campfire there, where folks can relax and enjoy a nice beer.</p>
-	<p class="uk-visible@m"><img src="pages/hotel/summergarden.jpg" alt="Hotel Exterior" /></p>
+	<p class="uk-visible@m"><img src="img/pages/hotel/summergarden.jpg" alt="Hotel Exterior" /></p>
 </section>
 
 <hr />

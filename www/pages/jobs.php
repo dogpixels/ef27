@@ -83,7 +83,7 @@
 					You want to help?<br />
 					Then <a href="https://help.eurofurence.org/contact/pps" target="_blank">send us a note</a> or contact <a href="https://t.me/BestYeen" target="_blank">”@BestYeen” on Telegram</a>.<br />
 					For more Information and Questions:<br/>
-					<img src="pages/jobs/pps.jpg" alt="" />
+					<img src="img/pages/jobs/pps.jpg" alt="" />
 					Become an active supporter and join us today.<br />
 					See you behind the show!
 				</p>
