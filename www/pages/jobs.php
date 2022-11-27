@@ -163,8 +163,6 @@
 		</li>
 	</ul>
 
-
-	<!--
 	<ul uk-accordion>
 		<li>
 			<a href="#" class="uk-accordion-title">Security</a>
@@ -205,7 +203,6 @@
 			</div>
 		</li>
 	</ul>
-	-->
 
 
 	<ul uk-accordion>
@@ -280,6 +277,40 @@
 				<p>To become part of the team, the minimum requirement is that you live in Berlin or within reach of the public transport system. You will meet and talk personally with the future partners in Berlin. Therefore, a certain willingness to travel as well as an outgoing nature are absolutely essential. You will be trained in all aspects of the job by your Team Lead (Director) and will be given lots of useful information, suggestions and support. If you really enjoy talking to people and have a positive, friendly personality, this job is for you.</p>
 				<p>Following your application, we will have a brief call in German with you to get to know you a little bit. A personal conversation between you and the team leader will help all sides to make sure we are on the same page with any questions you may have.</p>
 				<p>Are you interested in joining Local and Public Affairs and becoming our next Local Scout? Please contact <a href="https://t.me/pattarchus" target="_blank">@Pattarchus on Telegram</a> and he will get back to you shortly. Thank you for taking the time to read this. The Eurofurence team looks forward to hearing from you!</p>
+			</div>
+		</li>
+	</ul>
+	
+	<ul uk-accordion>
+		<li>
+			<a href="#" class="uk-accordion-title">Opening Show: Blender Camera Specialist</a>
+			<div class="uk-accordion-content uk-column-1-2@l">
+				<p>Our team specializes in creating an animated short movie for all our attendees to enjoy during the Opening Show. It’s embedded in a mixed media show that also includes live action stage elements, music and much more.</p>
+				<p>Being in our team is the perfect way to get immersed in the theme of this year’s Eurofurence. As our Blender camera specialist, you are responsible to make the most of our scenes and characters and show them in the best way possible according to our script. You are going to join our team of animators, modelers, particle effects specialists and much more.</p>
+				<ul>
+					<li>You are sufficiently fluent in English to communicate within our team. Fluency in German and/or other languages would be a plus.</li>
+					<li>You have good knowledge about Blender. You are very good with setting up cameras and how to use them.</li>
+				</ul>
+				<p>You don’t have to work on-site during the convention as all your work is done before the convention starts. You can join our rehearsal on Wednesday of course! </p>
+				<p>Following your application, we will have a brief call with you to get to know you a little bit. A personal conversation between you and the team leader will help all sides to make sure we are on the same page with any questions you may have.</p>
+				<p>Are you interested in joining the Opening Show team and becoming our new Camera Specialist? Please contact <a href="https://t.me/pattarchus" target="_blank">@Pattarchus on Telegram</a> and he will get back to you shortly. Thank you for taking the time to read this. The Eurofurence team looks forward to hearing from you!</p>
+			</div>
+		</li>
+	</ul>
+
+	<ul uk-accordion>
+		<li>
+			<a href="#" class="uk-accordion-title">Opening Show: 3D Modeling Artist in Blender</a>
+			<div class="uk-accordion-content uk-column-1-2@l">
+				<p>Our team specializes in creating an animated short movie for all our attendees to enjoy during the Opening Show. It’s embedded in a mixed media show that also includes live action stage elements, music and much more.</p>
+				<p>Being in our team is the perfect way to get immersed in the theme of this year’s Eurofurence. As our 3D modeling artist, you are responsible for creating, maintaining and improving our assets that we need for our movie and to bring the story we are going to tell alive.</p>
+				<ul>
+					<li>You are sufficiently fluent in English to communicate within our team. Fluency in German and/or other languages would be a plus.</li>
+					<li>You have good knowledge about Blender. You create new assets, their models and textures in tune with our style.</li>
+				</ul>
+				<p>You don’t have to work on-site during the convention as all your work is done before the convention starts, but can join our rehearsal on Wednesday of course!</p>
+				<p>Following your application, we will have a brief call with you to get to know you a little bit. A personal conversation between you and the team leader will help all sides to make sure we are on the same page with any questions you may have.</p>
+				<p>Are you interested in joining the Opening Show team and becoming a 3D modeling artist? Please contact <a href="https://t.me/pattarchus" target="_blank">@Pattarchus on Telegram</a> and he will get back to you shortly. Thank you for taking the time to read this. The Eurofurence team looks forward to hearing from you!</p>
 			</div>
 		</li>
 	</ul>
