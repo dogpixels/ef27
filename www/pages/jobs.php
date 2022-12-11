@@ -183,8 +183,8 @@
 				<div>
 					<ul>
 						<li>Sufficient fluency in English to communicate with our attendees. Fluency in German or other languages is a plus.</li>
-						<li>Willingness to work at least twelve 1-hour timeslots during the whole convention. There is a variety of duties to take on: Camp Fire, Art Show, Queue Control, Locker Service, Dances and many more require different services our team provides. We will develop your duty schedule according to your individual preferences and make sure it's not colliding with any event you want to attend.</li>
-						<li>Willingness to carry a handheld radio on your belt and be on standby during your off-duty time, but only for as long as you like. You can sign off, put your radio away and go have a drink at any time.</li>
+						<li>Willingness to work at least around 18 to 20 hours, averaged during the whole convention. There is a variety of duties to take on: Camp Fire, Art Show, Queue Control, Frontoffice Service, Dances and many more require different services our team provides. We will develop your duty schedule according to your individual preferences and make sure it's not colliding with any event you want to attend.</li>
+						<li>Willingness to carry a handheld radio on your belt and be on standby in addition to your scheduled shifts. You can end your standby shift and put your radio away at any time, to go and enjoy the convention.</li>
 						<li>Punctuality and reliability. We need to be sure you will show up to your assigned duties.</li>
 						<li>Willingness to go through an online course regarding Security Basics and the Rules of Conduct. It won't take too long and is actually interesting. You could even learn something useful for everyday life.</li>
 						<li>A responsible and respectable behaviour - even in a situation with conflict of interests - and a drama-free reputation.</li>
@@ -195,7 +195,7 @@
 					<p>You will be provided with everything you'll need for your duties. We will not just thrust a radio into your hands and throw you to the wolves, you will get training and personal coaching. No-one works alone during their shifts and you can contact your Team Leader or Dispatch (yes, we have a whole dispatching system, custom software and all - you'll love it) at any time. After your first year, we offer advanced training that can bring you at the same level as a professional Security officer, so you'll be able to lead your own team or checkpoint.</p>
 				</div>
 				<div>
-					<p>We will conduct a short voice-chat with you to get to know you a bit. Don't worry, this is not an interrogation, but a personal chat between you, me and and my recruitment office to make sure we're on the same page about any questions you might have.</p>
+					<p>We will conduct a short voice-chat with you to get to know you a bit. Don't worry, this is not an interrogation, but a personal chat between you and our recruitment office to make sure we're on the same page about any questions you might have.</p>
 				</div>
 				<div>
 					<p>Are you interested in joining the Security Team? Please write an email to <a href="mailto:security_hr@eurofurence.org">security_hr@eurofurence.org</a>, we will get back to you shortly. Thank you for taking the time to read this, we're looking forward to hear from you!</p>
