@@ -183,7 +183,7 @@
 				<div>
 					<ul>
 						<li>Sufficient fluency in English to communicate with our attendees. Fluency in German or other languages is a plus.</li>
-						<li>Willingness to work at least around 18 to 20 hours, averaged during the whole convention. There is a variety of duties to take on: Camp Fire, Art Show, Queue Control, Frontoffice Service, Dances and many more require different services our team provides. We will develop your duty schedule according to your individual preferences and make sure it's not colliding with any event you want to attend.</li>
+						<li>Willingness to work at least around 18 to 20 hours, averaged during the whole convention. There is a variety of duties to take on: Art Show, Queue Control, Frontoffice Service, Dances, Dispatching, Doorduty, ... and many more require different services our team provides. We will develop your duty schedule according to your individual preferences and make sure it's not colliding with any event you want to attend.</li>
 						<li>Willingness to carry a handheld radio on your belt and be on standby in addition to your scheduled shifts. You can end your standby shift and put your radio away at any time, to go and enjoy the convention.</li>
 						<li>Punctuality and reliability. We need to be sure you will show up to your assigned duties.</li>
 						<li>Willingness to go through an online course regarding Security Basics and the Rules of Conduct. It won't take too long and is actually interesting. You could even learn something useful for everyday life.</li>
