@@ -9,7 +9,7 @@
 <section class="uk-column-1-2@l">
 		<div>
 			<h3>How do I register as a dealer?</h3>
-			<p>To apply for dealer space, you must fill out our form at </strong><a href="https://dealers.eurofurence.org/" target="_blank"><strong>dealers.eurofurence.org</strong></a> starting on the <em>15th of December <?= $this->current->year - 1 ?>, ending on the 31st of December <?= $this->current->year - 1?>!</em></p>			
+			<p>To apply for dealer space, you must fill out our form at </strong><a href="https://dealers.eurofurence.org/" target="_blank"><strong>dealers.eurofurence.org</strong></a>. The registration is going to open in <em>January <?= $this->current->year ?></em>!</em></p>			
 			<p>The tables will be assigned before the registration for Eurofurence opens. To attend the Den you will still need a valid con ticket by <em>1st of March <?= $this->current->year ?></em> or your table will be assigned to someone on the waiting list.
 			You can apply for the Dealers'Den after the deadline at any time but the risks ending up on the waiting list are very high.</p>
 			<p>Table sizes are:</p>
