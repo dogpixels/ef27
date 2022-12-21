@@ -6,10 +6,10 @@
 		"ordinal": "27th",
 		"theme": "Black Magic",
 		"themeColor": "#DED0B0",
-		"location": "Estrel Hotel, Berlin, Germany",
-		"dates": "August 2nd to 6th, 2023",
-		"start": "2023-08-02",
-		"end": "2023-08-06",
+		"location": "Date & Location to be announced soon!",
+		"dates": "",
+		"start": "TBA",
+		"end": "TBA",
 		"charity": "(TBA!)",
 		"goh": "(TBA!)",
 		"opening": "2023-08-02T17:00:00+02:00"
@@ -89,6 +89,20 @@
 			"keywords": "",
 			"ogpImage": "",
 			"robots": "noindex, nofollow, noodp"
+		},
+
+		"notice":
+		{
+			"accessible": true,
+			"inMenu": false,
+			"menuText": "Notice",
+			"category": "Notice",
+			"uri": "notice.php",
+			"title": "Notice",
+			"description": "Eurofurence {number} will take place from {dates} at the {location}. Eurofurence is Europe's largest annual gathering of the European furry community.",
+			"keywords": "",
+			"ogpImage": "",
+			"robots": ""
 		},
 
 		"home":
@@ -177,8 +191,8 @@
 		
 		"hotel":
 		{
-			"accessible": true,
-			"inMenu": true,
+			"accessible": false,
+			"inMenu": false,
 			"menuText": "Hotel",
 			"category": "Venue",
 			"uri": "hotel.php",

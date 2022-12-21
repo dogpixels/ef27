@@ -1,13 +1,16 @@
 <div id="home">
     <div></div>
     <h1><?= $this->current->theme ?></h1>
-    <h2><?= $this->current->dates ?></h2>
-    <h2><?= $this->current->location ?></h2>
+    <h2><a href="notice">&gt;&gt;&gt; Important notice re: Date & Venue!</a></h2>
+    <!-- <h2><?= $this->current->dates ?></h2> -->
+    <!-- <h2><?= $this->current->location ?></h2> -->
 </div>
 
 
 <div class="uk-column-1-2@l uk-margin-top landingpage-content-start">
     <a href="#content" id="scrolldown" uk-scroll="offset: 50"><h1>Scroll Down</h1></a>
+
+    <p><strong><a href="notice">ATTENTION! Read our important notice regarding Date & Venue!</a></strong></p>
 
     <p>The forest has gone eerily quiet the deeper you've wandered into it. It had seemed a bit of a laugh, back at the village inn, when they told you about the strange ancient forest and the dark energies gathering there. Old folks' tales, fed by generations of superstitions easily explained away by modern science.<br />
     Now, in the unnatural quiet surrounded by strange, gnarled trees, you can't help but feel a little uneasy. There is always some truth to fairy tales after all.</p>
