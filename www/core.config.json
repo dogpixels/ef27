@@ -6,7 +6,7 @@
 		"ordinal": "27th",
 		"theme": "Black Magic",
 		"themeColor": "#DED0B0",
-		"location": "Estrel Hotel, Berlin, Germany",
+		"location": "Congress Center Hamburg, Germany",
 		"dates": "August 2nd to 6th, 2023",
 		"start": "2023-08-02",
 		"end": "2023-08-06",
@@ -179,13 +179,13 @@
 		{
 			"accessible": true,
 			"inMenu": true,
-			"menuText": "Hotel",
+			"menuText": "The CCH Hamburg",
 			"category": "Venue",
 			"uri": "venue.php",
 			"title": "Venue",
-			"description": "This year's venue is the Estrel Hotel in Berlin. It features a large amount of luxurious rooms, restaurants and a lot of convention space to roam.",
-			"keywords": "Hotel, Estrel, Berlin, Convention Center, Accommodation, Venue, Rooms, Restaurants",
-			"ogpImage": "hotel.jpg",
+			"description": "This year's venue is the Congress Center Hamburg (CCH). Come in and find out about the enormous venue we're about to fill with animal noises and fur.",
+			"keywords": "Venue, CCH, Hamburg, Convention Center, Accommodation",
+			"ogpImage": "venue.jpg",
 			"robots": ""
 		},
 		
@@ -198,8 +198,8 @@
 			"uri": "venue.map.php",
 			"title": "Venue Map",
 			"description": "The function space map! This is your ultimate 'How to get around!'",
-			"keywords": "Hotel, Floor Plan, Navigation, Venue, Berlin, How to get around",
-			"ogpImage": "",
+			"keywords": "Floor Plan, Navigation, Venue, Hamburg, How to get around",
+			"ogpImage": "venue.jpg",
 			"robots": ""
 		},
 
@@ -239,7 +239,7 @@
 			"category": "Membership",
 			"uri": "glympse.php",
 			"title": "Glympse Map",
-			"description": "Follow the surge of furries towards Berlin and back live on Glympse.",
+			"description": "Follow the surge of furries towards Hamburg and back live on Glympse.",
 			"keywords": "Glympse, Live, Travel, Map",
 			"ogpImage": "",
 			"robots": ""
