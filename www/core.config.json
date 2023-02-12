@@ -387,8 +387,8 @@
 		
 		"artshow":
 		{
-			"accessible": true,
-			"inMenu": true,
+			"accessible": false,
+			"inMenu": false,
 			"menuText": "Art Show",
 			"category": "Artists",
 			"uri": "artshow.php",
@@ -402,7 +402,7 @@
 
 		"artshow/signup":
 		{
-			"accessible": true,
+			"accessible": false,
 			"inMenu": false,
 			"menuText": "Art Show Signup",
 			"category": "Artists",
@@ -418,7 +418,7 @@
 
 		"artshow/rules":
 		{
-			"accessible": true,
+			"accessible": false,
 			"inMenu": false,
 			"menuText": "Art Show Rules",
 			"category": "Artists",
@@ -434,7 +434,7 @@
 
 		"artshow/guide":
 		{
-			"accessible": true,
+			"accessible": false,
 			"inMenu": false,
 			"menuText": "Art Show Guide",
 			"category": "Artists",
@@ -450,7 +450,7 @@
 
 		"artshow/bidding":
 		{
-			"accessible": true,
+			"accessible": false,
 			"inMenu": true,
 			"menuText": "Art Show Bidding",
 			"category": "Policies",
