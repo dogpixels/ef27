@@ -1,4 +1,4 @@
-<h1>Dealers' Den</h1>
+<h1>Dealers' Den</h1><p><em>This page will be updated very soon for EF27, stay tuned!</em></p>
 <section>
 	<h2>Opening Times</h2>
 	<p>The Dealers' Den will be open to customers during Eurofurence from <strong>Thursday to Saturday, in the afternoon from 12 pm to 6 pm</strong>. Dealers will be able to setup and tear down their points of sale outside of these times. The exact times will be announced in the conbook. Outside of the opening times the room will be locked, allowing you to leave your table and merchandise in relative safety overnight if you wish. Eurofurence e.V. as the host of the convention cannot be held responsible for any damaged, lost or stolen goods or money, and it is entirely up to you to take reasonable precautions yourself.</p>
@@ -9,8 +9,8 @@
 <section class="uk-column-1-2@l">
 		<div>
 			<h3>How do I register as a dealer?</h3>
-			<p>To apply for dealer space, you must fill out our form at </strong><a href="https://dealers.eurofurence.org/" target="_blank"><strong>dealers.eurofurence.org</strong></a>. The registration is going to open in <em>January <?= $this->current->year ?></em>!</em></p>			
-			<p>The tables will be assigned before the registration for Eurofurence opens. To attend the Den you will still need a valid con ticket by <em>1st of March <?= $this->current->year ?></em> or your table will be assigned to someone on the waiting list.
+			<p>To apply for dealer space, you must fill out our form at </strong><a href="https://dealers.eurofurence.org/" target="_blank"><strong>dealers.eurofurence.org</strong></a>. <!-- The registration is going to open in <em>January <?= $this->current->year ?></em>!</em> --></p>
+			<p>The tables will be assigned before the registration for Eurofurence opens. To attend the Den you will still need a valid con ticket <!--by <em>1st of March <?= $this->current->year ?></em> or -->your table will be assigned to someone on the waiting list.
 			You can apply for the Dealers'Den after the deadline at any time but the risks ending up on the waiting list are very high.</p>
 			<p>Table sizes are:</p>
 			<ul>

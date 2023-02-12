@@ -15,27 +15,6 @@
 
 	<ul uk-accordion>
 		<li>
-			<a href="#" class="uk-accordion-title">Fursuit Support: Team Helper</a>
-			<div class="uk-accordion-content uk-column-1-2@l">
-				<p>The fursuit support team is the friendly crew in the background, who keeps the growing number of fursuiters alive at Eurofurence each year. We’re the ones</p>
-				<ul>
-					<li>running the fursuit lounge</li>
-					<li>providing dances and panels with blowers and refreshments</li>
-					<li>planning fursuit excursions and the parade</li>
-					<li>providing service and help with any fursuit related issue</li>
-				</ul>
-				<p>Being part of the fursuit team is one of the best ways to make sure you get to meet all those fluffballs first hand. Currently the team consists of about 25 volunteers.</p>
-				<p>This is our entry level job in the team, and perfect for anyone willing to test the waters of convention teamwork. We will ask you to dedicate about 1 or 2 hours a day to help with refilling the water dispensers and snacks, keeping the lounge clean and occasionally get a few things from A to B. We are working with a fixed pre-negotiated time table, so you can plan your duties around other eventd you don’t want to miss.</p>	
-				<div>
-					<p>If you are interested in joining our team, please contact <a href="https://t.me/mystifur" target="_blank">@Mystifur on Telegram</a>, or send a a message to the <a href="https://help.eurofurence.org/contact/fursuit-support" target="_blank">Fursuit Support Team</a>.</p>			
-				</div>
-			</div>
-		</li>
-	</ul>
-
-
-	<ul uk-accordion>
-		<li>
 			<a href="#" class="uk-accordion-title">Fursuit Support: Support Staff</a>
 			<div class="uk-accordion-content uk-column-1-2@l">
 				<p>The fursuit support team is the friendly crew in the background, who keeps the growing number of fursuiters alive at Eurofurence each year. We’re the ones</p>
