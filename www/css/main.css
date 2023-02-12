@@ -162,6 +162,12 @@ nav li {
 	list-style: none;
 }
 
+/* galleries */
+[class^="uk-card-media-"] a:hover img,
+[uk-lightbox] a:hover img {
+	filter: brightness(0.75);
+}
+
 /* news  */
 #news {
 	max-width: 500px;

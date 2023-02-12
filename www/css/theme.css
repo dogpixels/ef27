@@ -72,10 +72,20 @@ nav a {
 
 
 /* fonts */
-h1, h2, h3, h4, #ef-homelink {
-    color: var(--palette-cream, #fff);
+h1:not(.reset-font),
+h2:not(.reset-font),
+h3:not(.reset-font),
+h4:not(.reset-font),
+#ef-homelink:not(.reset-font),
+#home h1:not(.reset-font),
+#home h2:not(.reset-font) {
     font-family: "pm";
 }
+
+h1, h2, h3, h4, #ef-homelink {
+    color: var(--palette-cream, #fff);
+}
+
 nav h1, #ef-homelink {
     color: var(--palette-red, #fff);
     font-size: 21pt;
@@ -121,7 +131,6 @@ main.ef-landingpage {
     padding-left: var(--menu-button-width, 100);
 }
 #home h1, #home h2 {
-    font-family: 'pm';
     color: var(--palette-cream, #fff);
     margin: 0 auto;
 }
