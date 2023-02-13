@@ -7,12 +7,12 @@
 		"theme": "Black Magic",
 		"themeColor": "#DED0B0",
 		"location": "Congress Center Hamburg, Germany",
-		"dates": "August 2nd to 6th, 2023",
-		"start": "2023-08-02",
-		"end": "2023-08-06",
+		"dates": "September 3rd to 7th, 2023",
+		"start": "2023-09-03",
+		"end": "2023-09-07",
 		"charity": "(TBA!)",
 		"goh": "(TBA!)",
-		"opening": "2023-08-02T17:00:00+02:00"
+		"opening": "2023-09-03T17:00:00+02:00"
 	},
 
 	"defaults":
@@ -57,7 +57,7 @@
 	"staticOut": 
 	{
 		"enabled": true,
-		"targetBase": "https://www.eurofurence.org/EF27/",
+		"targetBase": "https://wwwtest.eurofurence.org/EF27-precch/",
 		"path": "_deploy/"
 	},
 

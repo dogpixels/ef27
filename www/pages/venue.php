@@ -1,173 +1,36 @@
-<h1>Our Venue - Estrel Hotel Berlin</h1>
-<section>
+<h1>Our Venue &ndash; The Congress Center Hamburg</h1>
+<section class="uk-margin-bottom">
 	<div class="uk-column-1-2@l">
+		<p>In the center of Hamburg, Germany, amidst  lots of green and between Alster lake and a beatiful park to your leisure, lies the Congress Center Hamburg (CCH).</p>
+		<p>The Dammtor mainline train station and several other public transportation connections within walking distance allow for an easy travel.</p>
+		<p>Countless hotels, bars and restaurants around the neighborhood enrich the experience with a vast number of options to cater any taste and leave no desire unanswered.</p>
 		
-			<p><strong>Our venue this year is once more the amazing Estrel Hotel in Berlin. It features a large amount of rooms, restaurants, and a lot of convention space to roam around it. The Estrel offers a welcoming, home away from home atmosphere all set up for Eurofurence.</strong></p>
-			<p>The Estrel Hotel Berlin is the biggest convention center and hotel in Europe. Home to 1,125 comfortable rooms and luxury suites, the Estrel offers us all the convention space we need and then some. Arriving at the hotel you enter through the spacious lobby which makes you feel right at home. The lobby has plenty of space to lounge around, meet up with friends, have a drink or just enjoy all the fursuits passing by. The Estrel has everything you need located within the hotel and convention center so that you’ll never need to stray far from the action.</p>
-			<p>Directly connected to the hotel is the Estrel convention center. Are you worried EF will run out of space? Worry not! This convention center features a main hall that alone will host 6000 people comfortably. In addition to the main hall, the Estrel has 60 more convention rooms for a grand total of 15,000 m² convention space. Each convention room features all the latest techniques and climate control so it’ll be no problem to attend events in fursuit. As if all of this wasn’t enough space, the hotel also connects to the Estrel Festival Center which hosts daily live shows.</p>
-			<img src="img/pages/hotel/header.jpg" alt="" />
-		
-	
-		<div>
-			<h3>Estrel Hotel Berlin</h3>
-			<p>
-				Sonnenallee 225<br/>
-				12057 Berlin<br/>
-				Germany<br/>
-				Phone: +49-30-6831-0 (General)<br/>
-				Phone: +49-30-6831-22522 (Reservations)<br/>
-				Fax: +49-30-6831-2345<br/>
-				<a href="https://www.estrel.com/en/">www.estrel.com</a><br/>
-				<a href="mailto:hotel@estrel.com">hotel@estrel.com</a><br/>
-				Twitter: <a href="https://twitter.com/estrelberlin">@estrelberlin</a>
-			</p>
+		<h2>Features</h2>
+		<p>These impressive numbers allow for growth beyond many years to come</p>
 
-			<h3>Features and Services</h3>
-			<ul>
-				<li>1,125 rooms and suites</li>
-				<li>3 restaurants, 3 bars, and an outside garden with a snack pavilion</li>
-				<li>Wellness center with sauna and a fitness center available 24h</li>
-				<li>In-hotel ATM, laundry service and bicycle hire</li>
-				<li>Safes available at front desk</li>
-			<ul>
-		</div>
-	</div>
-
-</section>
-
-<hr />
-
-<section>
-	<h2>Hotel Rooms</h2>
-
-	<div class="uk-column-1-2@l uk-margin-bottom">
-		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
-			<div class="uk-card-body">
-				<h3 class="uk-card-title">Standard Room</h3>
-				<ul>
-					<li>27 m²</li>
-					<li>Writing Desk</li>
-					<li>Phone with answering machine</li>
-					<li>SAT-TV and Pay-TV</li>
-					<li>Free internet connection over WLAN and wired LAN</li>
-					<li>Climate control and air conditioning</li>
-					<li>Minibar</li>
-					<li>Bathroom with shower or bathtub</li>
-					<li>Hair dryer</li>
-					<li>Cosmetic mirror</li>
-				</ul>
-			</div>
-			<div class="uk-card-footer">
-				<strong>Price: TBA</strong>
-				<!-- <ul>
-					<li>Single person &euro;&nbsp;115,00/Night</li>
-					<li>Two persons &euro;&nbsp;140,00/Night</li>
-					<li>Three persons &euro;&nbsp;215,00/Night</li>
-				</ul> -->
-			</div>
-		</div>
-		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
-			<div class="uk-card-body">
-				<h3 class="uk-card-title">Deluxe Room</h3>
-				<ul>
-					<li>Same as Standard Room, but 34 m²</li>
-				</ul>
-			</div>
-			<div class="uk-card-footer">
-				<strong>Price: TBA</strong>
-				<!-- <ul>
-					<li>Single person &euro;&nbsp;130,00/Night</li>
-					<li>Two persons &euro;&nbsp;160,00/Night</li>
-					<li>Three persons &euro;&nbsp;230,00/Night</li>
-				</ul> -->
-			</div>
-		</div>
-		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
-			<div class="uk-card-body">
-				<h3 class="uk-card-title">Junior Suite</h3>
-				<ul>
-					<li>49 m² to 54 m²</li>
-					<li>Same furniture as Deluxe room, but also includes:</li>
-					<li>Safe</li>
-					<li>Combined living and sleeping area</li>
-				</ul>
-			</div>
-			<div class="uk-card-footer">
-				<strong>Price: TBA</strong>
-				<!-- <ul>
-					<li>Single person &euro;&nbsp;178,00/Night</li>
-					<li>Two persons &euro;&nbsp;198,00/Night</li>
-					<li>Three persons &euro;&nbsp;260,00/Night</li>
-				</ul> -->
-			</div>
-		</div>
-		<div class="uk-card uk-card-default uk-margin-bottom" uk-scrollspy="cls:uk-animation-fade">
-			<div class="uk-card-body">
-				<h3 class="uk-card-title">Deluxe Suite</h3>
-				<ul>
-					<li>57 m² to 85 m²</li>
-					<li>Same furnishings as Junior suite, but also includes:</li>
-					<li>shower and bath tub</li>
-					<li>separate living and sleeping area</li>
-				</ul>
-			</div>
-			<div class="uk-card-footer">
-				<strong>Price: TBA</strong>
-				<!-- <ul>
-					<li>Single person &euro;&nbsp;198,00/Night</li>
-					<li>Two persons &euro;&nbsp;228,00/Night</li>
-					<li>Three persons &euro;&nbsp;290,00/Night</li>
-				</ul> -->
-			</div>
-		</div>
-	</div>
-
-	<div>
-		<h2>About the Prices</h2>
 		<ul>
-			<li>All prices here are only provided as a convenience service for your reference. We accept no liability in case of discrepancies to the rates listed in the actual hotel reservation confirmation.</li>
-			<li>Prices are always per room, not per person</li>
-			<li>Prices listed include sales tax, the Berlin city tax, and full breakfast</li>
-			<li>Check­in any time after 15:00; check­out by noon</li>
-			<li>The Estrel also features executive suites. If you wish to book a room of this type, please contact the Estrel directly.</li>
+			<li><strong>50</strong> halls harbor up to <strong>12,000</strong> seats at once.</li>
+			<li>The largest theater, <span class="uk-text-italic">Saal 1</span>, sports <strong>3,025</strong> seats.</li>
+			<li><strong>36,000</strong> m² of total area to explore.</li>
+			<li>The nearby Hamburg Airport connects <strong>130</strong> destinations and can be reached within <strong>25</strong> minutes.</li>
+			<li><strong>40</strong> hotels in the vicinity offer up to <strong>7,900</strong> beds in total.</li>
+			<li>The adjacent "<span class="uk-text-italic">Planten un Blomen</span>" parks span <strong>47</strong> hectares.</li>
 		</ul>
-		<p><strong>Please take note: The hotel does not wish for any electric appliances other than chargers (phone, tablet, toothbrush, laptop) to be plugged in and used in the hotel room.</strong></p>
-	</div>
-</section>
 
-<hr />
-
-<section>
-	<h2>Restaurants</h2>
-	<p>Next to offering us all this space, the Estrel is also home to several restaurants offering a wide variety of food. With three restaurants to choose from, you’re sure to find something to your liking.</p>
-	<p class="uk-visible@m"><img src="img/pages/hotel/restaurants.jpg" alt="Restaurants inside the hotel" /></p>
-
-	<div class="uk-grid-small uk-grid-match uk-child-width-1-2@l uk-child-width-1-4@xl" uk-grid>
-		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">The Leaf</h3>
-				<p>The leaf is housed in an open mezzanine located in the hotel atrium. Here you can start your day with our breakfast buffet serving fresh breakfast rolls, a variety of healthy muesli cereals, fresh fruit and delicious egg dishes.</p>
+		<div class="uk-card uk-card-default uk-margin-bottom">
+			<div class="uk-card-media-top">
+				<div uk-lightbox>
+					<a href="pages/venue/Luftaufnahme_04.jpg"><img src="pages/venue/thumbs/Luftaufnahme_04.jpg" alt="CCH from above" /></a>
+				</div>
 			</div>
-		</div>
-		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Grill</h3>
-				<p>Our elegant restaurant "Grill" features premium steak quality. We serve a large selection of grilled specialties. Our offering includes fish, burgers and of course first-class beef steaks.</p>
-				<p><i>Opening hours:</i> Monday to Sunday 12pm to 5pm and 6pm to 10:30pm</p>
-			</div>
-		</div>
-		<div>
-		<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Portofino</h3>
-				<p>Unwind in the company of old friends. The Portofino's relaxed atmosphere is underscored by Mediterranean cuisine and the taste of "La Dolce Vita". Our seasonal menu features traditional Italian dishes created with great care before your eyes by our skilled chefs in the show kitchen.</p>
-				<p><i>Opening hours:</i> Monday to Saturday 11:30 am to midnight</p>
-			</div>
-		</div>
-		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Estrel-Stube</h3>
-				<p>Our rustic Estrel-Stube offers you hearty German cuisine. Take a seat on our wooden terrace and enjoy a culinary stroll through the country’s most famous dishes. Whether you’re in the mood for beef goulash with mushrooms and "Spätzle" noodles to "Leberkäse", you’ll find our menu choices simply scrumptious.</p>
-				<p><i>Opening hours:</i> Monday to Sunday 5:00 pm to midnight</p>
+			<div class="uk-card-body">
+				<img src="pages/venue/cch-logo-quer2_72dpi.jpg" alt="CCH - Congress Center Hamburg" />
+				<p>
+					Congressplatz 1<br />
+					20355 Hamburg<br />
+					Germany<br />
+					<a href="https://www.cch.de/en" target="_blank">www.cch.de/en</a>
+				</p>
 			</div>
 		</div>
 	</div>
@@ -176,27 +39,88 @@
 <hr />
 
 <section>
-	<h2>Bars</h2>
-	<p>So, where to go after dinner? You won't need to look far! The Estrel has three bars ready to offer you a cold drink.</p>
-	<p class="uk-visible@m"><img src="img/pages/hotel/bars.jpg" alt="Estrel main bar" /></p>
-
-	<div class="uk-grid-small uk-grid-match uk-child-width-1-3@m" uk-grid>	
+	<h2>Floor Maps</h2>
+	<div class="uk-grid-small uk-grid-match uk-child-width-1-2@l uk-child-width-1-4@xl uk-margin-bottom" uk-grid>
 		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Atriumbar</h3>
-				<p>The Atriumbar is the prime meeting spot in our bright, light-filled hotel lobby. The bar serves light snacks and non-alcoholic beverages as well as more potent liquors and mixes.</p>
+			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-top">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-eg_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-eg_150dpi_en_2.jpg" alt="Ground Floor Map" /></a>
+					</div>
+				</div>
+				<div class="uk-card-body">
+					<h3 class="uk-card-title reset-font">Ground Floor</h3>
+					<ul>
+						<li>Entrance</li>
+						<li>Registration</li>
+						<li>More To Be Announced</li>
+					</ul>
+				</div>
+				<!-- <div class="uk-card-media-bottom">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-eg_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-eg_150dpi_en_2.jpg" alt="Ground Floor Map" /></a>
+					</div>
+				</div> -->
 			</div>
 		</div>
 		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Pianobar</h3>
-				<p>Let yourself unwind and enjoy the Pianobar, found by walking through the Atrium from the hotel lobby. The Pianobar features live piano music and is open from 6pm until 10:30pm.</p>
+			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-top">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-1og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-1og_150dpi_en_2.jpg" alt="1st Floor Map" /></a>
+					</div>
+				</div>
+				<div class="uk-card-body">
+					<h3 class="uk-card-title reset-font">1st Floor</h3>
+					<ul>
+						<li>To Be Announced</li>
+					</ul>
+				</div>
+				<!-- <div class="uk-card-media-bottom">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-1og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-1og_150dpi_en_2.jpg" alt="1st Floor Map" /></a>
+					</div>
+				</div> -->
 			</div>
 		</div>
 		<div>
-			<div class="uk-card uk-card-default uk-card-body" uk-scrollspy="cls:uk-animation-fade">
-				<h3 class="uk-card-title">Smokers' Lounge &amp; Bar</h3>
-				<p>Provides a relaxed atmosphere for smokers and non-smokers alike. The smokers' lounge is open from 7am until 11pm. The bar at the lounge opens at 6pm.</p>
+			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-top">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-2og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-2og_150dpi_en_2.jpg" alt="2nd Floor Map" /></a>
+					</div>
+				</div>
+				<div class="uk-card-body">
+					<h3 class="uk-card-title reset-font">2nd Floor</h3>
+					<ul>
+						<li>To Be Announced</li>
+					</ul>
+				</div>
+				<!-- <div class="uk-card-media-bottom">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-2og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-2og_150dpi_en_2.jpg" alt="2nd Floor Map" /></a>
+					</div>
+				</div> -->
+			</div>
+		</div>
+		<div>
+			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-top">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-3og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-3og_150dpi_en_2.jpg" alt="3rd Floor Map" /></a>
+					</div>
+				</div>
+				<div class="uk-card-body">
+					<h3 class="uk-card-title reset-font">3rd Floor</h3>
+					<ul>
+						<li>To Be Announced</li>
+					</ul>
+				</div>
+				<!-- <div class="uk-card-media-bottom">
+					<div uk-lightbox>
+						<a href="pages/venue/cch_plan-iso-3og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-3og_150dpi_en_2.jpg" alt="3rd Floor Map" /></a>
+					</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -205,15 +129,90 @@
 <hr />
 
 <section>
-	<h2>Exterior Hotel Area</h2>
-	<p>The Estrel entrance is opposite our Summer Garden on the water – the premiere outdoor meeting spot on Sonnenallee. The Summer Garden is home to majestic, shady chestnut trees, a terrace-shaped stairway offering amphitheatre-like seating, a fountain, a snack pavilion and a landing pier. We will also host the daily campfire there, where folks can relax and enjoy a nice beer.</p>
-	<p class="uk-visible@m"><img src="img/pages/hotel/summergarden.jpg" alt="Hotel Exterior" /></p>
+	<h2>Planten un Blomen, Gardens and Parks</h2>
+
+	<p>Curled around the CCH is <a href="https://plantenunblomen.hamburg.de/planten-un-blomen-parkplan-parkteile/" target="_blank">a cluster of parks</a> operated by the City of Hamburg, connecting the CCH all the way south to the <span class="uk-text-italic">Landungsbr&uuml;cken</span> docks with a 2.5 km walk in the greens.</p>
+	<p>There are several noteworthy points to mention:</p>
+	<ul>
+		<li>Entrance is free.</li>
+		<li><a href="https://plantenunblomen.hamburg.de/service/3834054/oeffnungszeiten-artikel/" target="_blank">Daily opening times: 7:00&mdash;23:00</a></li>
+		<li><a href="https://plantenunblomen.hamburg.de/essen-trinken/" target="_blank">There are several cafés, ice cream points and a restaurant.</a></li>
+		<li><a href="https://plantenunblomen.hamburg.de/veranstaltungskalender/" target="_blank">There may be events and shows taking place during Eurofurence.</a></li>
+	</ul>
+
+	<p>Check out <a href="https://plantenunblomen.hamburg.de/parkplan/" target="_blank">the official map of all points of interest</a>.</p>
+
+	<p><strong>Note:</strong> All this information may change at any time. </a href="https://plantenunblomen.hamburg.de/">Check out their website</a> and local signage for possible changes.</p>
+	
+	<div class="uk-card uk-card-default uk-card-body">
+		Note to Staff: 
+		Include a note here about Eurofurence having no arrangements 
+		with the City of Hamburg regarding the park area? That visits 
+		should be treated like any public stroll?
+	</div>
+	
 </section>
 
 <hr />
 
 <section>
-	<h2>Near and around the Hotel</h2>
-	<p>All of this not enough for you? Want to get away from all the furry action for a bit? There's plenty to do around the hotel!</p>
-	<p>A short 400 meter walk away there is a Netto supermarket and a number of restaurants. Just 2 kilometers away from the hotel, you'll be able to enjoy 89 hectares of forest at the "Plänterwald" if you just want to get away from it all. Of course, the concierge team at the Estrel is happy to provide tips on all the things to see and do in Berlin. If you wish to go sightseeing, they'll be the ones to tell you what to see and how to get there.</p>
+	<h2>Official </h2>
+	<div class="uk-grid-small uk-grid-match uk-child-width-1-2@l uk-child-width-1-3@xl uk-margin-bottom" uk-grid>
+		<div>
+			<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-left uk-cover-container">
+					<a href="https://www.cch.de/en/visit/arrival" target="_blank" class="ef-hide-ext"><img src="pages/venue/thumbs/Luftaufnahme_01.jpg" alt="" uk-cover /></a>
+				</div>
+				<div>
+					<div class="uk-card-body">
+						<h3 class="uk-card-title no-font">Travel</h3>
+						<a href="https://www.cch.de/en/visit/arrival" target="_blank">Check out convenient descriptions on how to reach the congress center, no matter if you ride, drive or fly.</a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div>
+			<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-left uk-cover-container">
+					<a href="https://www.cch.de/en/visit/hotels" target="_blank" class="ef-hide-ext"><img src="pages/venue/thumbs/Taktiles_Bodenleitsystem.jpg" alt="" uk-cover /></a>
+				</div>
+				<div>
+					<div class="uk-card-body">
+						<h3 class="uk-card-title no-font">Hotels</h3>
+						<a href="https://www.cch.de/en/visit/hotels" target="_blank">The CCH presents seven hotels in the direct vicinity to the convention center.</a> Additionally, <a href="https://www.hamburg-travel.com/discover-hamburg/experience-sustainability/sustainable-accommodations/" target="_blank">the City of Hamburg provides a list of sustainable accomodations</a> for you to sleep in good consciousnes.
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div>
+			<div class="uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid uk-scrollspy="cls:uk-animation-fade">
+				<div class="uk-card-media-left uk-cover-container">
+					<a href="https://www.cch.de/en/venue/sustainability" target="_blank" class="ef-hide-ext"><img src="pages/venue/thumbs/Planten_un_Blomen_6.jpg" alt="" uk-cover /></a>
+				</div>
+				<div>
+					<div class="uk-card-body">
+						<h3 class="uk-card-title no-font">Sustainability</h3>
+						<a href="https://www.cch.de/en/venue/sustainability" target="_blank">Read about the CCH's commitment to responsibility and sustainability.</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<hr />
+
+<section class="uk-grid-small uk-flex-center uk-margin-bottom" uk-grid uk-lightbox>
+	<div><a href="pages/venue/CCH-Außenansicht_07.jpg" data-caption="Exterior View"><img src="pages/venue/thumbs/CCH-Außenansicht_07.jpg" alt="Exterior View" /></a></div>
+	<div><a href="pages/venue/Eingangshalle_des_CCH_1.jpg" data-caption="Entrance Hall"><img src="pages/venue/thumbs/Eingangshalle_des_CCH_1.jpg" alt="Entrance Hall" /></a></div>
+	<div><a href="pages/venue/Saal_1_3.jpg" data-caption="The largest theater, Saal 1"><img src="pages/venue/thumbs/Saal_1_3.jpg" alt="The largest theater, Saal 1" /></a></div>
+	<div><a href="pages/venue/CCH_4.jpg" data-caption=""><img src="pages/venue/thumbs/CCH_4.jpg" alt="" /></a></div>
+	<div><a href="pages/venue/Planten_un_Blomen_1.jpg" data-caption="The adjacent parks, Planten un Blomen"><img src="pages/venue/thumbs/Planten_un_Blomen_1.jpg" alt="The adjacent parks, Planten un Blomen" /></a></div>
+	<div><a href="pages/venue/Planten_un_Blomen_8.jpg" data-caption="The adjacent parks, Planten un Blomen"><img src="pages/venue/thumbs/Planten_un_Blomen_8.jpg" alt="The adjacent parks, Planten un Blomen" /></a></div>
+</section>
+
+<section class="uk-text-right">
+	<p>All images &copy; The City of Hamburg, Hamburg Messe respectively.</p>
 </section>
