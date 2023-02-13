@@ -91,6 +91,20 @@
 			"robots": "noindex, nofollow, noodp"
 		},
 
+		"notice":
+		{
+			"accessible": true,
+			"inMenu": false,
+			"menuText": "Notice",
+			"category": "Notice",
+			"uri": "notice.php",
+			"title": "Notice",
+			"description": "Eurofurence {number} will take place from {dates} at the {location}. Eurofurence is Europe's largest annual gathering of the European furry community.",
+			"keywords": "",
+			"ogpImage": "",
+			"robots": ""
+		},
+
 		"home":
 		{
 			"accessible": true,
