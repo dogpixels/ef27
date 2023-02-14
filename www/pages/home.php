@@ -1,16 +1,13 @@
 <div id="home">
     <div></div>
     <h1><?= $this->current->theme ?></h1>
-    <h2><a href="notice">&gt;&gt;&gt; Important notice re: Date & Venue!</a></h2>
-    <!-- <h2><?= $this->current->dates ?></h2> -->
-    <!-- <h2><?= $this->current->location ?></h2> -->
+    <h2><?= $this->current->dates ?></h2>
+    <h2><?= $this->current->location ?></h2>
 </div>
 
 
 <div class="uk-column-1-2@l uk-margin-top landingpage-content-start">
     <a href="#content" id="scrolldown" uk-scroll="offset: 50"><h1>Scroll Down</h1></a>
-
-    <p><strong><a href="notice">ATTENTION! Read our important notice regarding Date & Venue!</a></strong></p>
 
     <p>The forest has gone eerily quiet the deeper you've wandered into it. It had seemed a bit of a laugh, back at the village inn, when they told you about the strange ancient forest and the dark energies gathering there. Old folks' tales, fed by generations of superstitions easily explained away by modern science.<br />
     Now, in the unnatural quiet surrounded by strange, gnarled trees, you can't help but feel a little uneasy. There is always some truth to fairy tales after all.</p>
@@ -46,15 +43,16 @@
     <div>
         <h3>Dates &amp; Deadlines</h3>
         <p>There are various dates and deadlines to keep in mind. Generally, you'd want to keep track of registration, booking and payment dates:</p>
-        <ul>
+        <p>Stay tuned, registration is preparing...</p>
+        <!-- <ul>
             <li><strong>Registration</strong> usually starts around January or February. Exact date and time is being announced at <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a>.</li>
             <li>Membership <strong>payment</strong> due dates are provided on <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a> and within your registration confirmation emails.</li>
             <li>Check <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a> for details on the <strong>hotel</strong> booking process and affiliated dates.</li>
-        </ul>
+        </ul> -->
         
         <p><strong>Artists</strong> may additionally need to keep an eye on application deadlines for Art Show and Dealers' Den:</p>
         <ul>
-            <li><a href="artshow">Check the Art Show Page for the panel application deadline.</a></li>
+            <!-- <li><a href="artshow">Check the Art Show Page for the panel application deadline.</a></li> -->
             <li><a href="dealersden">Check the Dealers' Den Page for the table application deadline.</a></li>
         </ul>
         
@@ -62,11 +60,6 @@
         <ul>
             <li><a href="https://fursuit.eurofurence.org/" target="_blank" rel="noreferrer">fursuit.eurofurence.org</a></li>
         </ul>
-    </div>
-
-    <div>
-        <h3>Overflow Hotels</h3>
-        <p>Getting a spot at the popular main hotel is tough, we know that. Part of our efforts to improve this situation is by providing alternatives; On our <a href="hotel/overflow">Overflow page</a>, we'll point you towards suitable hotels and hostels. Expect this information to be available some weeks before the convention. If you rely on such an option, check the page frequently!</p>
     </div>
 
     <div>
@@ -92,7 +85,7 @@
         <h3>Artists: Selling at Eurofurence</h3>
         <p>There are generally two ways of selling merchandise at Eurofurence: by auction in the Art Show / Art Auction and directly in the Dealers' Den or Artist Alley. All options except Artist Alley require you to to register beforehand until a given deadline and apply for a panel or table accordingly. Read on for deadlines and application processes:</p>
         <ul>
-            <li><a href="artshow">Art Show Page</a></li>
+            <!-- <li><a href="artshow">Art Show Page</a></li> -->
             <li><a href="dealersden">Dealers' Den Page</a></li>
         </ul>
     </div>

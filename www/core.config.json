@@ -45,6 +45,7 @@
 		},
 		"categoryOrder": 
 		[
+			"Registration",
 			"Membership",
 			"Venue",
 			"Program",
@@ -57,7 +58,7 @@
 	"staticOut": 
 	{
 		"enabled": true,
-		"targetBase": "https://wwwtest.eurofurence.org/EF27-precch/",
+		"targetBase": "https://www.eurofurence.org/EF27/",
 		"path": "_deploy/"
 	},
 
@@ -91,16 +92,16 @@
 			"robots": "noindex, nofollow, noodp"
 		},
 
-		"notice":
+		"prices":
 		{
 			"accessible": true,
-			"inMenu": false,
-			"menuText": "Notice",
-			"category": "Notice",
-			"uri": "notice.php",
-			"title": "Notice",
+			"inMenu": true,
+			"menuText": "Prices",
+			"category": "Registration",
+			"uri": "registration.prices.php",
+			"title": "Convention Fees &amp; Prices",
 			"description": "Eurofurence {number} will take place from {dates} at the {location}. Eurofurence is Europe's largest annual gathering of the European furry community.",
-			"keywords": "",
+			"keywords": "Price, Ticket, Booking, Registration, Reg, Sign Up, How Much",
 			"ogpImage": "",
 			"robots": ""
 		},
@@ -128,7 +129,7 @@
 			"uri": "nosecount/index.html",
 			"title": "Nosecount",
 			"description": "Check out how many folks already decided to join this years Eurofurence - nice statistics included!",
-			"keywords": "Statistics, Stats, Nosecount, Registration, Reg, Sign-Up",
+			"keywords": "Statistics, Stats, Nosecount, Registration, Reg, Sign Up",
 			"ogpImage": "",
 			"robots": ""
 		},
@@ -546,21 +547,7 @@
 			"ogpImage": "",
 			"robots": ""
 		},
-		
-		"liability":
-		{
-			"accessible": true,
-			"inMenu": true,
-			"menuText": "Liability Waiver",
-			"category": "Policies",
-			"uri": "https://help.eurofurence.org/legal/liability/",
-			"title": "",
-			"description": "",
-			"keywords": "",
-			"ogpImage": "",
-			"robots": ""
-		},
-		
+				
 		"imprint":
 		{
 			"accessible": true,

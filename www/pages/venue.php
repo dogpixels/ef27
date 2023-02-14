@@ -142,15 +142,7 @@
 
 	<p>Check out <a href="https://plantenunblomen.hamburg.de/parkplan/" target="_blank">the official map of all points of interest</a>.</p>
 
-	<p><strong>Note:</strong> All this information may change at any time. </a href="https://plantenunblomen.hamburg.de/">Check out their website</a> and local signage for possible changes.</p>
-	
-	<div class="uk-card uk-card-default uk-card-body">
-		Note to Staff: 
-		Include a note here about Eurofurence having no arrangements 
-		with the City of Hamburg regarding the park area? That visits 
-		should be treated like any public stroll?
-	</div>
-	
+	<p><strong>Note:</strong> All this information may change at any time. </a href="https://plantenunblomen.hamburg.de/">Check out their website</a> and local signage for possible changes.</p>	
 </section>
 
 <hr />
