@@ -206,6 +206,11 @@
 					<div uk-slideshow="autoplay: true; autoplay-interval: 3000; animation: pull; ratio: 5:2">
 						<ul class="uk-slideshow-items" id="network">
 							<li>
+								<a href="https://www.cesfur.org/" target="_blank" class="ef-hide-ext">
+									<img src="img/cons/cesfur.gif" alt="CesFur" />
+								</a>
+							</li>
+							<li>
 								<a href="https://fblacklight.org/" target="_blank" class="ef-hide-ext">
 									<img src="img/cons/fbl.gif" alt="Furry Black Light" />
 								</a>
