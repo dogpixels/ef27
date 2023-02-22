@@ -1,6 +1,6 @@
-<h1>Dealers' Den Rules &amp; Information</h1>
+<h1>Dealers’ Den Rules &amp; Information</h1>
 
-<h2>The SHORT version</h2>
+<h2>The <i>Short</i> Version</h2>
 <section class="uk-column-1-2@l">
 	<p>Sales in the Dealers’ Den are only allowed by registered dealers in  authorized dealerships within designated spaces. Sharing space at a dealership with unauthorized dealers is not allowed.</p>
 	<p>To be eligible for registration as a dealer or dealer assistant, a previous registration for Eurofurence (the event) is mandatory. After an additional registration on the Dealers’ Den website, a chosen dealership package is added to the dealer’s existing registration for the event.</p>
@@ -19,7 +19,7 @@
 
 <hr />
 
-<h2>Dealers' Den Hours</h2>
+<h2>Dealers’ Den Hours</h2>
 <section class="uk-column-1-2@l">
 	<div>
 		<table class="uk-table">
@@ -30,15 +30,15 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>18:30&mdash;21:00</td>
+					<td>18:30&nbsp;&ndash; 21:00</td>
 					<td>Dealer Registration in Hall H</td>
 				</tr>
 				<tr>
-					<td>19:30&mdash;21:00</td>
+					<td>19:30&nbsp;&ndash; 21:00</td>
 					<td>Dealers / Dealer Assistants only</td>
 				</tr>
 				<tr>
-					<td>21:00 onward</td>
+					<td>21:00&nbsp;onward</td>
 					<td>Off limits to all, including dealers.*</td>
 				</tr>
 			</tbody>
@@ -50,31 +50,31 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>10:00&mdash;12:00</td>
+					<td>10:00&nbsp;&ndash; 12:00</td>
 					<td>Dealer Registration in Hall H</td>
 				</tr>
 				<tr>
-					<td>10:00&mdash;12:00</td>
+					<td>10:00&nbsp;&ndash; 12:00</td>
 					<td>Dealers / Dealer Assistants only</td>
 				</tr>
 				<tr>
-					<td>12:00&mdash;13:00</td>
+					<td>12:00&nbsp;&ndash; 13:00</td>
 					<td>Admission for Super Sponsors only</td>
 				</tr>
 				<tr>
-					<td>13:00&mdash;14:00</td>
+					<td>13:00&nbsp;&ndash; 14:00</td>
 					<td>Admission for Super Sponsors + Sponsors only</td>
 				</tr>
 				<tr>
-					<td>14:00&mdash;18:00</td>
+					<td>14:00&nbsp;&ndash; 18:00</td>
 					<td>Admission for all Attendees</td>
 				</tr>
 				<tr>
-					<td>18:00&mdash;18:30</td>
+					<td>18:00&nbsp;&ndash; 18:30</td>
 					<td>Dealers / Dealer Assistants only to close dealerships</td>
 				</tr>
 				<tr>
-					<td>18:30 onward</td>
+					<td>18:30&nbsp;onward</td>
 					<td>Off limits to all, including dealers.*</td>
 				</tr>
 			</tbody>
@@ -90,27 +90,27 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>11:00&mdash;12:00</td>
+					<td>11:00&nbsp;&ndash; 12:00</td>
 					<td>Dealer Registration in Hall H</td>
 				</tr>
 				<tr>
-					<td>11:00&mdash;12:00</td>
+					<td>11:00&nbsp;&ndash; 12:00</td>
 					<td>Dealers / Dealer Assistants only</td>
 				</tr>
 				<tr>
-					<td>12:00&mdash;13:00</td>
+					<td>12:00&nbsp;&ndash; 13:00</td>
 					<td>Admission for Super Sponsors + Sponsors only</td>
 				</tr>
 				<tr>
-					<td>13:00&mdash;18:00</td>
+					<td>13:00&nbsp;&ndash; 18:00</td>
 					<td>Admission for all Attendees</td>
 				</tr>
 				<tr>
-					<td>18:00&mdash;18:30</td>
+					<td>18:00&nbsp;&ndash; 18:30</td>
 					<td>Dealers / Dealer Assistants only to close dealerships</td>
 				</tr>
 				<tr>
-					<td>18:30 onward</td>
+					<td>18:30&nbsp;onward</td>
 					<td>Off limits to all, including dealers.*</td>
 				</tr>
 			</tbody>
@@ -122,19 +122,19 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>11:00&mdash;12:00</td>
+					<td>11:00&nbsp;&ndash; 12:00</td>
 					<td>Dealer Registration in Hall H</td>
 				</tr>
 				<tr>
-					<td>11:00&mdash;12:00</td>
+					<td>11:00&nbsp;&ndash; 12:00</td>
 					<td>Dealers / Dealer Assistants only</td>
 				</tr>
 				<tr>
-					<td>12:00&mdash;18:00</td>
+					<td>12:00&nbsp;&ndash; 18:00</td>
 					<td>Admission for all Attendees</td>
 				</tr>
 				<tr>
-					<td>18:00&mdash;20:00</td>
+					<td>18:00&nbsp;&ndash; 20:00</td>
 					<td>Dealers / Dealer Assistants only for Teardown</td>
 				</tr>
 			</tbody>
@@ -171,23 +171,23 @@
 				<tr>
 					<th>Dealership Package</th>
 					<th class="uk-text-center uk-text-top">Half<br />■</th>
-					<th class="uk-text-center uk-text-top">Full<br />■ ■</th>
-					<th class="uk-text-center uk-text-top">Double Length<br />■ ■ ■ ■</th>
-					<th class="uk-text-center uk-text-top">Double Width<br />■ ■<br/>■ ■</th>
-					<th class="uk-text-center uk-text-top">Quad<br />■ ■ ■ ■<br />■ ■ ■ ■</th>
+					<th class="uk-text-center uk-text-top">Full<br />■&nbsp;■</th>
+					<th class="uk-text-center uk-text-top">Double Length<br />■&nbsp;■&nbsp;■&nbsp;■</th>
+					<th class="uk-text-center uk-text-top">Double Width<br />■&nbsp;■<br/>■&nbsp;■</th>
+					<th class="uk-text-center uk-text-top">Quad<br />■&nbsp;■&nbsp;■&nbsp;■<br />■&nbsp;■&nbsp;■&nbsp;■</th>
 				</tr>
 			<tbody>
 				<tr>
 					<td><h4 class="reset-font">Dimensions</h4></td>
-					<td class="uk-text-center">65 cm x 65 cm</td>
-					<td class="uk-text-center">130 cm x 65 cm</td>
-					<td class="uk-text-center">260 cm x 65 cm</td>
-					<td class="uk-text-center">130 cm x 130 cm</td>
-					<td class="uk-text-center">260 cm x 130 cm</td>
+					<td class="uk-text-center">65&nbsp;cm x 65&nbsp;cm</td>
+					<td class="uk-text-center">130&nbsp;cm x 65&nbsp;cm</td>
+					<td class="uk-text-center">260&nbsp;cm x 65&nbsp;cm</td>
+					<td class="uk-text-center">130&nbsp;cm x 130&nbsp;cm</td>
+					<td class="uk-text-center">260&nbsp;cm x 130&nbsp;cm</td>
 				</tr>
 				<tr>
 					<td><h4 class="reset-font">Height</h4></td>
-					<td class="uk-text-center" colspan="5">69 cm - 71.5 cm<br/>(bottom of table to top of the table)</td>
+					<td class="uk-text-center" colspan="5">69&nbsp;cm &ndash; 71.5&nbsp;cm<br/>(bottom of table to top of the table)</td>
 				</tr>
 				<tr>
 					<td><h4 class="reset-font">Seats</h4></td>
@@ -207,11 +207,11 @@
 				</tr>
 				<tr>
 					<td><h4 class="reset-font">Price for all 3 days</h4></td>
-					<td class="uk-text-center">50 &euro;</td>
-					<td class="uk-text-center">100 &euro;</td>
-					<td class="uk-text-center">200 &euro;</td>
-					<td class="uk-text-center">200 &euro;</td>
-					<td class="uk-text-center">400 &euro;</td>
+					<td class="uk-text-center">50&nbsp;&euro;</td>
+					<td class="uk-text-center">100&nbsp;&euro;</td>
+					<td class="uk-text-center">200&nbsp;&euro;</td>
+					<td class="uk-text-center">200&nbsp;&euro;</td>
+					<td class="uk-text-center">400&nbsp;&euro;</td>
 				</tr>
 			</tbody>
 			<tfoot>
@@ -386,7 +386,7 @@
 		<ul>
 			<li>In the general area artwork containing adult material shall either be shielded by sticky notes, stickers, or a similar covering, or ideally should be kept in a clearly-marked binder which shall be kept closed by the Dealer when it is not being viewed by a customer. Binders or portfolios containing uncensored artwork shall be separate from other binders. A tag or divider between material rated PG-13 and material rated “R” is not sufficient. Any censoring of artwork (pixelation, blurring, censorship bars) must be done to the satisfaction of Dealers’ Den Staff. In the “After Dark” area censoring is not needed.</li>
 			<li>Artwork or other items rated “R” shall be kept from public view and therefore handed to the customer in an nontransparent packaging that obscures the item completely, such as a bag, envelope, or folder. The customer can use their own packaging.</li>
-			<li>Five Senses Rule – The dealership’s display and merchandise shall not cause discomfort to Attendees or other Dealers in regard to sight, sound, smell, taste, or touch. This specifically concerns bright flashing lights, loudspeakers, and strong scents. Audio needs to be kept at such a volume that it does not disturb Attendees or other Dealers; headphones are recommended if audio is a primary selling point of the dealership. Any presentation that is deemed inappropriate may be interdicted on the sole discretion of the Dealers’ Den Management or their deputies.</li>
+			<li>Five Senses Rule &ndash; The dealership’s display and merchandise shall not cause discomfort to Attendees or other Dealers in regard to sight, sound, smell, taste, or touch. This specifically concerns bright flashing lights, loudspeakers, and strong scents. Audio needs to be kept at such a volume that it does not disturb Attendees or other Dealers; headphones are recommended if audio is a primary selling point of the dealership. Any presentation that is deemed inappropriate may be interdicted on the sole discretion of the Dealers’ Den Management or their deputies.</li>
 		</ul>
 	</p>
 
@@ -415,7 +415,7 @@
 		<li>Dealers’ Den closes on Wednesday at 18:00. After that time only dealers and their assistants are permitted entry to and presence in the Dealers’ Den.</li>
 		<li>Teardown begins immediately after closing. Dealers are expected to dismount their displays, pack up their belongings and clear the room before 19:00.</li>
 		<li>Dealers are required to check out with Dealers’ Den Staff. Upon check out the dealers’ respective dealership will be checked by staff.</li>
-		<li><strong>Dealers leaving any amount of trash behind at their dealership will be charged a fixed cleaning fee of 100,- &euro;.</strong> Trash containers will be provided during Teardown by Eurofurence.</li>
+		<li><strong>Dealers leaving any amount of trash behind at their dealership will be charged a fixed cleaning fee of 100&nbsp;&euro;.</strong> Trash containers will be provided during Teardown by Eurofurence.</li>
 	</ul>
 </section>
 
