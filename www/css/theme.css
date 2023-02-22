@@ -208,3 +208,8 @@ main.ef-landingpage {
 #ef-badger a[href^="https://addons.mozilla.org"]::before {
 	background-image: url(../img/firefox.png);
 }
+
+.ef-table-borders th,
+.ef-table-borders td {
+    border: 1px solid #999999;
+}
