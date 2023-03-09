@@ -130,7 +130,7 @@
 
 <hr />
 
-<section class="just">
+<section>
 <h3>Read on:</h3>
     <p><a href="artshow/guide" rel="prev">Artist Guide</a></p>
 </section>

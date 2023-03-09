@@ -68,16 +68,12 @@
 	</ul>    
 	<p>If necessary, we can deviate from the process; but make sure to read the whole documentation to understand
 	how these process items work first before asking for an exception.</p>  
-
-	
-
 </section>
 
 <hr />
 
 <h2>Deadlines</h2>
 <section>
-
 	<p>The application / registration has a small number of dates you need to be aware of. If you
 	don't meet these deadlines, you may cause grievances, delays, or even endanger your participation.</p>
 
@@ -341,7 +337,7 @@
 
 <hr />
 
-<section class="just"> 
+<section> 
 <h2>Read on:</h2>
     <p><a href="artshow/rules" rel="next">Artist Rules</a></p>
 </section>
