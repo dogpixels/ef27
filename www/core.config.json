@@ -467,7 +467,7 @@
 		"artshow/bidding":
 		{
 			"accessible": false,
-			"inMenu": true,
+			"inMenu": false,
 			"menuText": "Art Show Bidding",
 			"category": "Policies",
 			"uri": "artshow.bidding.php",
@@ -495,8 +495,8 @@
 				
 		"dealersden/alley":
 		{
-			"accessible": true,
-			"inMenu": true,
+			"accessible": false,
+			"inMenu": false,
 			"menuText": "Artist Alley",
 			"category": "Artists",
 			"uri": "dealersden.alley.php",
