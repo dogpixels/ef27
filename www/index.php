@@ -207,7 +207,7 @@
 						<ul class="uk-slideshow-items" id="network">
 							<li>
 								<a href="https://www.cesfur.org/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/cesfur.png" alt="CesFur" />
+									<img src="img/cons/cesfur.gif" alt="CesFur" />
 								</a>
 							</li>
 							<li>
