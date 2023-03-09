@@ -2,7 +2,7 @@
 <section>
 	<p>As every year, we will have a con book as guide through the convention and its events, as map, and as souvenir. If you're interested in contributing content, here are the guidelines.</p>
 	<p>All contributions, requests, and notes should be sent to our <a href="https://help.eurofurence.org/contact/conbook" target="_blank">Conbook department</a>.
-	<p><b>Deadline:</b> will be announced at a later time!</p>
+	<p><b>Deadline:</b> July 9th</p>
 </section>
 
 <hr />
