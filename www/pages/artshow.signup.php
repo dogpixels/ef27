@@ -1,343 +1,197 @@
 <h1>Art Show &ndash; Artist Signup</h1>
 <section>
-	<h2>Participation and Invitation</h2>
-	
-    <p>Traditionally, Eurofurence sends out invitations to artists who may be interested in participating 
-    and/or who had participated before. However, getting an invitation is not a requirement. If you 
-    think your art deserves a space in the Art Show, please apply for a panel in the show.</p>
+   <h2 id="as-apply-participation-cost">Participation and Cost</h2>
+   
+   <p>If you think your art deserves a space in the Art Show, please do not hesitate to apply for a panel or table in the show after reading and agreeing to <a href="artshow/rules">our rules</a>! While access to the Eurofurence Art Show is not restricted, we do curate which applications will be granted space in the Art Show due to the limited space available to us.</p>
+
+   <p>You may display <strong>only art that you created yourself</strong> and not some you just happen to own. The show is not a market for selling leftover purchases or similar. Exceptions may only be made in rare cases, e.g. for Charity.</p>
+
+   <ul>
+      <li>Due to the considerable cost of floor space, we need to charge a small fee per panel and table. Pricing is as follows (see <a href="artshow/guide">the guide</a> for details on panel sizes):</li>
+      
+      <ul>
+      <li><strong>Full panel: 20&nbsp;&euro;</strong></li>
+      <li><strong>Half panel: 10&nbsp;&euro;</strong></li>
+      <li><strong>Full table: 10&nbsp;&euro;</strong> (Art Show tables only, not to be confused with Dealers' Den tables)</li>
+      <li><strong>Half table: 5&nbsp;&euro;</strong> (Art Show tables only, not to be confused with Dealers' Den tables)</li>
+      </ul>
+
+      <li>The fee only needs to be paid after you have been accepted to the Art Show and been assigned a final number of panels and/or tables. You only pay for those panels/tables that you actually get, not the ones you request. Payment is due through the Eurofurence Registration system up front. If you fail to pay, your panel/table assignment is void and will be offered to the next artist.</li>
+      
+      <li>The panel/table assignments are <strong>not shareable</strong>: Each space (application and acceptance) is valid for one artist only (with the exception of collaborations), and comes at a minimum of a half panel or a half table.</li>
+      
+      <li>The panel/table assignments are <strong>not transferable</strong> to avoid speculation. If you have valid reason to give up your assignment, please <a href="https://help.eurofurence.org/contact/artshow">contact the Art Show managers</a> and we'll try to find an artist on the waiting list to whom you can pass your assignment.</li>
+      
+      <li>The fee is <strong>not refundable</strong> after assignments have been determined. If you find yourself unable to participate in the Art Show personally for some reason (after applying, being accepted, and paying the fee), you can always assign an agent of your choice to handle the art for you (see below). If you have valid reason to give up your assignment altogether, see the previous bullet point.</li>
+      
+      <li>You or your agent need to be <strong>registered with Eurofurence</strong> and participate in the convention. You or your agent are responsible for hanging the art, taking it down, and collecting the money from sales.</li>
+      
+      <li><strong>You have to arrange getting your art to the show by yourself.</strong> The Art Show does not allow art to be directly sent in via mail. If you find yourself unable to transport your artwork to Eurofurence, please find an agent to handle it for you. Any cost arising from your transportation, customs etc. must be determined and paid by yourself. We can not offer any advice or assistance on these subjects.</li>  
+      
+      <li><strong>There is no insurance involved.</strong> Of course there is security present to guard the Art Show. There is a computer system to keep track of exhibits. And of course the managers will help you identify the perpetrator in any case of damaged artwork. However, the Art Show cannot be held accountable for matters of theft, vandalism, or accidents. It is up to you to file claims against identified or unidentified offenders.</li>
+      
+      <li>Eurofurence just arranges sales between artists and buyers. Any financial obligations resulting from those sales (like taxes) have to be managed and fulfilled by you. You do not enter a sales contract with Eurofurence or the Eurofurence Art Show, but with the buyer.</li>
+   </ul>
+   
+   <p>The name you or your agent are registered under must be the same as the one you register for the convention. (The artist name shown on the bidsheets can be freely selected.) The Art Show signup template requires your (or your agent's, if you don't participate yourself) Eurofurence registration number.</p>
 </section>
 
 <hr />
 
-<h2>Requirement</h2>
-<section class="uk-column-1-2@l">
-	<p>There are no official minimum quality requirements for artwork, but due to the limited
-	panel space, <strong>the Art Show managers may restrict the number of panels that are allocated to you</strong>.
-	You are requested to provide example art and if possible a public gallery in the application.
-	If you're a newcomer to an art show, we recommend that you have a good hard look at your art, and 
-	decide whether it is of suitable quality to be displayed in the show. The Art Show is no actual 
-	contest, but you will inevitably be measured up against other artists by the con's patrons.<br />The emphasis of the Art Show is on art that you created yourself, not just happen to own. If you 
-	want to display artwork from others, contact the Art Show managers beforehand for advice. While in certain 
-	situations or for certain art pieces this may be permitted, showing others' art should be very limited. 
-	The show is not a display for sales of leftover purchases.</p>
-
-	<p>Of course you can act as an agent for artists who are not able to attend, or appoint an agent who will 
-	display your artwork for you. For more information, see below.</p>
-
-	<p>If you are in doubt regarding your participation or the suitability of your artwork, don't hesitate 
-	to ask the Art Show managers.</p>
-</section>
-
-<hr />
-
-<h2>The Exhibiting Process</h2>
+<h2 id="as-apply-curation">Curation Requirement</h2>
 <section>
-	<p>The Eurofurence Art Show is handling hundreds of art pieces by a score of artists. To perform
-	our service in an efficient manner, we need to keep to a standard process, which on the artist's
-	side involves the following steps:</p>
-	<ul>
-	  <li>Information: You read through the signup documentation, the rules, and the guide which will
-	  cover most of your questions. If you have any special needs, or find an open question, you may
-	  ask the Art Show team at any time for clarification.</li>
-	  <li>Signup: You apply for the Art Show by mail, and thereby register. You will need to tell us
-	  how many panels and tables you need, and what your age rating is for each of those.</li>
-	  <li>Deadline: You need to have applied by the deadline, which is <em><strong>March 31st</strong></em>.</li>
-	  <li>Panel distribution: After the deadline, we will look at the numbers of available panels vs.
-	  the number of panels applied for, and assign each artist panels. This may or may not the number
-	  you have asked for, depending on how much demand there is.</li>
-	  <li>Art production: You will need to make art :-) The art must be in a displayable state (i.e.
-	  framed) at the time of the show.</li>
-	  <li>Online database: You will be handed a login for an online database. You need this to enter the
-	  required information for each piece of art you want to exhibit, and to print bidsheets.</li>
-	  <li>Getting the art to the show: You may attend Eurofurence yourself and bring the art with you.
-	  Otherwise, you will need to appoint an <strong>agent</strong> who brings the art and picks it up again.</li>
-	  <li>Hanging the art: We will provide you with the panels and hooks for hanging, as well as sticky 
-	  tape for the bidsheets. It is up to you or your agent to hang the art with the accompanying
-	  bidsheets.</li>
-	  <li>Leave packaging: It is possible that you leave the packaging for the art in the Art Show.
-	  If the art is sold, the buyer will receive the packaging for the transport home.</li>
-	  <li>During the Art Show: You don't need to do anything during the Art Show opening times. You may
-	  enjoy the convention, or sit in the Dealers' Den (please use the separate application process &ndash;
-	  Dealers' tables are not part of the Art Show) for commercial activity. The Art Show will do all
-	  the required handling for you, up to the sales.</li>
-	  <li>Picking up unsold art: If there is any art unsold (or not for sale), you or your agent need to
-	  pick it up after the show closed.</li>
-	  <li>Picking up revenue: When the sales are done, the artists will receive an immediate payout
-	  on site.</li>
-	  <li>Going home.</li>
-	</ul>    
-	<p>If necessary, we can deviate from the process; but make sure to read the whole documentation to understand
-	how these process items work first before asking for an exception.</p>  
+
+   <p>The Art Show is curated; the available panel and table space will be distributed by the Art Show managers among all submitted applications based on various criteria. The Art Show managers may deny your request, or limit the number of panels/tables allocated to you.</p>
+   
+   <ul class="uk-column-1-2@l">
+      <li>On the application email template, you are required to provide examples in the form of a public gallery or a private share where the Art Show managers can have a look at your prior work.</li>
+
+      <li>A certain minimum quality for artwork is expected. While the Art Show likes giving new and different artists a chance to participate, the limited space makes a selection of exhibitors necessary. Quality and originality will be among the criteria for this selection process, but not the sole criteria.</li>
+      
+      <li>If you are using photography as your medium, the photo in itself must have artistic quality. We will e.g. not display low-resolution snapshots from a Sunday at the zoo. Like all other art, photography must be framed. Display of photos is limited.</li>
+        
+      <li>If you use 2D/3D computer graphics (still rendering / animation), the rendering (including modeling) must have artistic quality. We will e.g. not display slightly modified Poser models or Second Life screenshots. Like all other art, computer graphics must be framed.</li>
+        
+      <li>If you are in doubt regarding your participation or the suitability of your artwork, don't hesitate to ask the Art Show managers.</li>
+      
+      <li>In addition to the quality requirements, the <a href="artshow/rules">general rules</a> must be followed for all exhibit pieces.</li>
+      
+   </ul>
+
 </section>
 
 <hr />
 
-<h2>Deadlines</h2>
+<h2 id="as-apply-exhibition">Exhibition Process</h2>
 <section>
-	<p>The application / registration has a small number of dates you need to be aware of. If you
-	don't meet these deadlines, you may cause grievances, delays, or even endanger your participation.</p>
+   <p>The Eurofurence Art Show is handling hundreds of exhibits by a score of artists. To perform our service in an efficient manner, we need to keep to a standard process, which on the artist's side involves the following steps:</p>
+   <ul>
+     <li><strong>Information:</strong> You read through, understand and follow the signup documentation, <a href="artshow/rules">the rules</a>, and <a href="artshow/guide">the guide</a>, which will cover most of your questions. If you have any special needs, or find an open question, you may ask the Art Show team for clarification at any time.</li>
 
-	<ul>
-	  <li>The registration for the Art Show starts at the same time as the registration for the
-	  convention itself.</li>
-	  <li><strong>Applications need to be sent by 31st of March.</strong><br/>
-	  It is possible to apply for Art Show space after that, but we will have distributed all available
-	  panels then, so unless there are more panels available than needed, you will end up on the 
-	  waiting list. There is a chance that you get in, but you will not have a guaranteed space.</li>
-	  <li><strong>You can return panels that you don't need until 4 weeks before the con.</strong><br/>
-	  If you return unneeded panels later (or do not fill your space at the con) without a very good 
-	  reason, we must conclude that you have not properly estimated your requirements, and may give
-	  you less space next year.</li>
-	  <li><strong>You can change your age rating (but not the total number of panels) until 2 weeks before the con.</strong><br/>
-	  After that, we will have designed our panel setup, and cannot move age ratings around any more.
-	  You may hang General art on your Adult panel but not vice versa.</li>
-	  <li><strong>You can enter data into the online database until the Sunday before the con.</strong><br/>
-	  The database is taken offline for use at the con site after that. You can still enter data at the con
-	  but there may be waiting times and queues.</li>
-	  <li><strong>You may nominate an agent at any time.</strong><br/>
-	  It is up to you to make sure we know about this, so don't send an email at the last minute. If
-	  it becomes necessary to name an agent at the very last second, call or hand a signed document of proof
-	  to the agent that he can use to identify himself.</li>
-	  <li><strong>You (or your agent) may hang art on Wednesday afternoon (recommended), or Thursday morning.</strong><br/>
-	  It is not recommended to hang art later than that, because the Show will open on Thursday noon, and
-	  visitors will be in the show already. If you arrive too late to hang art until then, you may do so
-	  during the opening times, but it is awkward.</li>
-	  <li><strong>You (or your agent) need to pick up your unsold art on Saturday.</strong> Artists may pick up 
-	  unsold art at any time during sales. You need to check out unsold art; get your checkout sheet at
-	  the Art Show counter (look for the signs, we provide an extra queue).<br/>
-	  The Art Show cannot store any art that you leave behind. If you have any trouble keeping the date,
-	  talk to us for a different pickup date. We cannot guarantee the safety of abandoned art.</li>
-	  <li><strong>You (or your agent) need to fetch your money after the sales and before the Pawpet Show.</strong><br/>
-	  Artists are paid on site for actual sales after all of their sold art pieces have been picked up 
-	  and paid for. Therefore, the artist payout depends on the duration of the sales. We may need to be 
-	  flexible in this date. We also make allowances in payout time for you, if you ask for it.</li>
-	</ul>
+     <li><strong>Signup:</strong> You apply for the Art Show by email, and thereby register. You will need to tell us how many panels and tables you need, and what your age rating is for each of those. Make sure that you don't ask for more space than you can actually fill with exhibits.</li>
+     
+     <li><strong>Deadline:</strong> You need to have applied by the deadline, which is <em><strong>April 30th</strong></em>.</li>
+     
+     <li><strong>Panel distribution:</strong> After the deadline, we will look at the numbers of available panels/tables vs. the number of panels/tables requested, and assign space to each artist. This may or may not be the amount of space you have asked for, depending on how much demand there is.</li>
+     
+     <li><strong>Art production:</strong> You will need to create art. The exhibit must physically exist and be complete to be suitable for the show (e.g. no YCHs). The art must be in a displayable state (i.e. framed) at the time of the show.</li>
+     
+     <li><strong>Online database:</strong> You will be handed a login for an online database. You need this to enter the required information for each piece of art you want to exhibit, and to print bidsheets.</li>
+     
+     <li><strong>Getting the art to the show:</strong> If you attend Eurofurence yourself, you just bring the art with you. Otherwise, you will need to appoint an <strong>agent</strong> who brings the art and picks it up again (see below).</li>
+     
+     <li><strong>Hanging the art:</strong> We will provide you with the panels and hooks for hanging, as well as sticky tape for the bidsheets. It is up to you or your agent to hang the art together with the accompanying bidsheets.</li>
+     
+     <li><strong>Leave packaging:</strong> It is possible for you to leave the packaging for the art in the Art Show. If the art is sold, the buyer will receive the packaging for the transport home.</li>
+     
+     <li><strong>During the Art Show:</strong> You don't need to do anything during the Art Show opening times. You may enjoy the convention, or sit in the Dealers' Den (please use the separate application process &ndash; Dealers' Den tables are not part of the Art Show) for commercial activity. The Art Show will do all the required handling for you, up to the sales.</li>
+     
+     <li><strong>Picking up unsold art:</strong> If any of your exhibits remains unsold (or was not for sale), you or your agent need to pick it up after the show is closed.</li>
+     
+     <li><strong>Picking up revenue:</strong> When the sales are done, the artists will receive an immediate payout on site. This is a separate step from picking up unsold art.</li>
+     
+     <li>Note: In 2023 at Eurofurence 27, there will be no separate Voice Auction event after the Art Show Closing.</li>
+   </ul>    
+   
+   <p>If necessary, we can deviate from the process; but make sure to read the whole documentation to understand how these processes work first, before asking for an exception.</p>  
+</section>
 
-	<p>We do assume that these dates are easy to keep, and that you don't start doing art for the show
-	three days before the show opens :-)</p>
-	
-	<br/>
+<hr />
+
+<h2 id="as-apply-deadlines">Deadlines</h2>
+<section>
+   <p>The application / registration process has a number of dates and times you need to be aware of. If you don't meet these deadlines, you may cause grievances, delays, or even endanger your participation. Note that some dates for deadlines will be announced later when the convention's schedule has been finalized.</p>
+
+   <ul>
+     <li><strong>Applications need to be sent by 30th of April.</strong> It is possible to apply for Art Show space after that, but we will have distributed all available panels and tables by then, so unless there are more panels available than needed, you will end up on the waiting list. There is a chance that you get in, but you will not have a guaranteed space.</li>
+     
+     <li><strong>You can retract your application until panels have been assigned.</strong> After that time, the panels/tables are yours to keep. You can open a ticket with the Art Show if a transfer is unavoidable, but we do not guarantee that a transfer is possible.</li>
+     
+     <li><strong>You can enter data into the online database until shortly before the con.</strong> The exact date will be emailed with the regular info emails for the Art Show. The database is taken offline for use at the con site after that. You can still enter data at the con, but there will be waiting times and queues.</li>
+
+     <li><strong>You (or your agent) may hang art on the opening day (recommended), or the morning of the day after.</strong></li>
+     
+     <li><strong>You (or your agent) need to pick up your unsold art on the last con day.</strong> Artists may pick up unsold art at the announced time. You need to check out unsold art; get your checkout sheet at the Art Show counter (look for the signs, we provide an extra queue).<br/>
+     The Art Show cannot store any art that you leave behind. If you have any trouble keeping the date, talk to us for a different pickup date. We cannot guarantee the safety of abandoned art.</li>
+     
+     <li><strong>You (or your agent) need to pick up your money after the sales.</strong> The money from actual sales will be paid out after all sales have concluded. Therefore, the artist payout depends on the duration of the sales. We may require you to be flexible with respect to the exact payout time, but if you absolutely cannot make it, please contact us as early as possible so an alternative time slot can be arranged for you.</li>
+   </ul>
 
 </section>
 
 <hr />
 
-<h2>Agents</h2>
+<h2 id="as-apply-agents">Agents</h2>
 <section class="uk-column-1-2@l">
 
-	<p>It is generally best if an artist comes to Eurofurence personally to hang his art. Sometimes 
-	however an artist cannot make it due to time, money, or distance issues. In these cases, that artist
-	may appoint an agent to handle the art and the revenue for her or him.</p>
+   <p>It is generally best practice for an artist to personally come to Eurofurence to hang their art. Sometimes however, an artist cannot make it due to time, money, or distance issues. In these cases, that artist may appoint an agent to handle the art, the payment, and the revenue for them.</p>
 
-	<p>Note: <strong>It is no longer possible to mail the artwork to the Art Show managers beforehand.</strong>
-	Due to the difficulties experienced in the process (customs, fees, danger of damage, return of 
-	unsold art), the Art Show cannot perform this service for you. Please find an agent to carry 
-	the artwork.</p>
+   <p>Note: <strong>It is not possible to send exhibits to the Art Show by mail.</strong> If you find yourself unable to transport your artwork yourself, please find an agent to handle it for you.</p>
 
-	<p>"Agent" refers to the person that actually comes to EF and works with us in getting the art 
-	displayed, sold, and picked up. The agent will handle money for you, so it must be a person
-	you trust. The agent can be nominated at any time, but we must be aware of that! We cannot just
-	have a stranger come in with your stuff and hang your art and collect money. This may be as well a
-	thief that tries to sell stolen goods! Only designated agents may pick up art or money. It is up
-	to the agent to identify himself, or to bring proof that he is actually your agent.</p>
+   <p>"Agent" refers to the person that actually comes to Eurofurence and works with us in getting the art displayed, sold, and picked up. The agent will handle money for you, so it must be a person you trust.</p> 
+   
+   <p>The Art Show must know about your agent. We cannot just have a stranger come in with your stuff and hang your art and collect money. This may as well be a thief that tries to sell stolen goods! <strong>Only designated agents may pick up art or money.</strong></p>
 
-	<p>Agents don't need to represent artists 1:1. You can nominate more than one agent (with the 
-	proper credentials) if for example one agent brings the art but must leave early, and the 
-	other agent will pick up the unsold art and money. An agent also may represent more than one
-	artist. And of course one artist can be the agent for another.</p>
-	<br/>
-	<div>
-		<p><strong>How to apply with an agent:</strong></p>
-		<ul>
-		  <li>The application must still be filled by the artist's data, containing the artist's address 
-		  and (private) email.</li>
-		  <li>If the agent is supposed to get a copy of the communication, enter his email in the "Additional
-		  email address" category. This is not required since the agent's tasks are normally performed at the
-		  convention, and the artist's tasks (for which this communication is meant) are performed beforehand.</li>
-		  <li>Under "Agent", enter <strong>the agent's full name and nickname</strong> as used at the con. The full name may
-		  be needed for official ID.</li>
-		  <li>Under "Badge number", enter the agent's badge number.</li>
-		  <li>The agent may of course be another artist.</li>
-		</ul>
-	</div>
-	
-	<p>The rest of the application is the same as if you'd come to the con yourself! We will happily
-	help your agent getting your art displayed.</p>
+   <ul>
+      <li>When you apply with an agent, you need to fill in the agent contact data as well as your own. Do not fill the line asking for your Eurofurence registration number (which you will not have), but fill the line asking for your agent's registration number, so we can confirm their identity via their badge.</li>
 
-	<p>If you are an artist, and you are agenting for friends too, you may send all applications in one
-	mail. Just use one proper application block (see above) per artist, and enter the correct email and
-	agent info per block. Each artist is handled separately and may apply for his or her own panel set.</p>
-
-	<p>Being an agent will not harm your standing when it comes to panel assignments. Agenting only
-	affects who is handling art at the con &ndash; the applications are still separate.</p>
-	<br/>
-	
+      <li>You can only have one agent.</li>
+      
+      <li>An agent, on the other hand, can perform their service for several artists.</li>
+      
+      <li>The agent is responsible for everything, including paying your Art Show fee. This is because the fee is added to the Eurofurence ticket fee, and it's the agent who has that ticket as they are coming to Eurofurence instead of you. You will thus need to reimburse them.</li>
+      
+      <li>The Eurofurence Art Show does not monitor your transactions with your agent (e.g. them transferring the sales revenue to you). We will treat the agent as if they were you.</li>
+      
+      <li>All Eurofurence Art Show communication will be sent to your agent as well as to you, under the email you provide with the application. It is up to you to agree on who is going to answer upcoming questions or react to issues.</li>
+      
+      <li>If you need to change your agent, or get an agent at all after you have already applied, send us a ticket. Note that this will also require us re-booking the Art Show fee to the new agent.</li>
+   </ul>
+   
 </section>
 
 <hr />
 
-<h2>Panel Reservation</h2>
+<h2 id="as-apply-signup">Signup and Application</h2>
+
+   <p>Before applying, please take the following information into account:</p>
+      
 <section class="uk-column-1-2@l">
+   <ul>
+      <li>All fields are mandatory unless specified otherwise.</li>
+      
+      <li>For all communication, we will only use the email address from which the application was sent and that of the agent if specified. It is up to you to ensure you retain access to it, or inform us of any changes.</li>
+      
+      <li>The contact information provided in the application remains private and will not be disclosed to third parties in accordance with applicable law. The public contact info that you can optionally enter into the Art Show database will be included with the customer receipts so a customer is able to contact you for questions. The email address(es) provided with the application will not be shared.</li>
+      
+      <li>Note that <strong>your address is mandatory</strong>. Should there be legal disputes of any sort that cannot be resolved by an email exchange, we may be legally required to pass this address on to law officials or involved parties. Patrons and customers will <strong>not see</strong> your address.</li>
+      
+      <li>You may ask for half panels and half tables. Find the panel sizes, shapes, and structures in the <a href="artshow/guide">Artist Guide</a> section.</li>
+      
+      <li>The number of panels/tables should be what you can fill and afford. We cannot guarantee that this is the number of panels or tables that we can actually allocate to you. Desired panels that we cannot give to you immediately may become available at a later time.</li>
+      
+      <li>Available panels and tables will be distributed after April 30th. If we have not received your application by then, you may end up on the waiting list.</li>
+      
+      <li>Be sure to fill out your application truthfully and correctly. Incomplete applications will be rejected.</li>
+   </ul>
 
+   <p><strong><a href="https://help.eurofurence.org/contact/artshow/application" target="_blank">Apply for a panel now</a></strong></p>
 
-	<p>When deciding on the number of panels to reserve, <strong>please keep in mind:</strong></p>
-	<ul>
-	  <li>Most artists only need one panel, at most two. The panels are huge! Unless you are working 
-	  in exceptionally large formats, or are very productive, you don't need to order more than 
-	  two panels; often even half a panel is enough.</li>
-	  <li>Quality before quantity. Yes, we know that you want to sell lots of art, but cramming art 
-	  on as many panels as allowed defies the purpose of the Art Show. Be selective; show only your 
-	  best. Don't be fixated on sales.</li>
-	  <li>Keep a good working relationship with the Art Show staff. They will try to accommodate your 
-	  wishes if you keep them up to date with your information.</li>
-	  <li>Don't panic. If you can't fill your panels with art, give them back. If you have more art 
-	  than you can display on your panels, either select the best &ndash; or bring it to the 
-	  convention nevertheless; often, panels become available at the last minute.</li>
-	</ul>
-	
-	<p><strong>How many panels are "good style" to reserve?</strong></p>
-	<ul>
-	  <li>First, make an estimation of how much art you can bring. This does not need to be a 
-	  hundred percent accurate, but you should know how many panels you need. If you have attended 
-	  the Art Show before, you most likely know how to do that; if you're a newcomer, you may want 
-	  to spend some time on your estimations.</li>
-	  <li>Then apply with that estimation in mind. Stay realistic: don't reserve four panels and 
-	  later drop three and a half of them.</li>
-	  <li>Keep in mind that other artists want to have panels too. We will try to be fair when 
-	  assigning panels; your realistic estimation of needed panels will help us in that.</li>
-	  <li>If you are a newcomer, we may assign you only limited panel space (one panel). You may want to talk 
-	  to us personally when you actually need more than one full panel. We welcome new artists, but 
-	  &ndash; due to past experiences &ndash; we would like to build a working relationship with 
-	  you before you get multiple panels assigned.</li>
-	  <li>If you have a bad track record &ndash; that is, if you have reserved panels at past 
-	  Art Shows and then failed to fill them without returning them, or failed to claim your 
-	  panels at all, or caused trouble with the Art Show team &ndash; you may want to talk to 
-	  us before reserving panels. We might need to curb your reservations to mitigate the apparent risk.</li>
-	  <li>After your application, try to keep track of your art progress and the needed panels, 
-	  and return panels when you know that you don't need them.</li>
-	</ul>
-	
-	<div>
-		<p><strong>How many panels are assigned to you?</strong></p>
-		<ul>
-		  <li>You will not automatically get the full number of panels that you request. Normally there are
-		  more applications for panels than can be fulfilled. Generally, we do not assign more than four
-		  panels to an applicant.</li>
-		  <li>We will decide on March 31st or shortly after how the available panels are distributed
-		  among the applicants.</li>
-		  <li>The number of panels that you actually get depends on many criteria: How many panels have
-		  been requested all in all vs. how many panels are actually available; are you a newcomer;
-		  do you do large formats; what is your technical quality; are you a favorite of the patrons;
-		  have you participated in earlier shows; is your content interesting and unique; do you bring 
-		  originals; have you filled your panels in the past or let us down? We will have a look at the 
-		  examples you provided.</li>
-		  <li>We will try to give as many artists as possible a chance, and be fair about the panel
-		  distribution. However, we also need to assemble an interesting and varied art show that
-		  provides great entertainment for the patrons &ndash; who pay for the show with their con fees!</li>
-		  <li>If you do not get the full number of panels that you had requested, you are placed on the
-		  waiting list for the difference. You may get more panels at a later time. Previous art shows 
-		  have shown that there are always panels left over for various reasons.</li>
-		</ul>
-	</div>
-	
-	<p><strong>What happens after that? Are changes possible? Can new panels be ordered?</strong></p>
-	<ul>
-	  <li>The panels that are confirmed by the Art Show after the close-off date are yours. We will not 
-	  take them away or redistribute them unless you return them voluntarily. You can plan your final 
-	  layout for the show.</li>
-	  <li>You may apply (or try to book additional panels if you need them) at any time even after the
-	  closeoff date. However, the panels will most likely be gone by then, and you will end up on the waiting
-	  list behind the people that have applied before the closeoff date. We cannot guarantee that you 
-	  will get a panel, but some may become available as returns.</li>
-	  <li>Panels may become available at the con itself if an artist returns panels at the last minute, 
-	  brings less art than anticipated, or fails to show up. So, panels may be reassigned even at the 
-	  convention! This happens frequently. Don't hesitate to bring (additional) art and ask!</li>
-	</ul>
-	
-	<p>It is not possible to give your space to someone else in person, since that may lead to an unfair 
-	panel distribution. Panels must be officially redistributed. That includes panels you reserved for friends 
-	that you represent at the con as an agent &ndash; if those friends do not use all of their panel space, 
-	you cannot simply take that space for yourself; it must be returned to the Art Show pool.</p>
-	
-	<p>Since only a few people need tables instead of panels, tables will be set up as needed.</p>
-	
-	<br/>	
+   <p>What happens after that? Are changes possible? Can new panels be ordered?</p>
+   
+   <ul>
+      <li>The panels that are confirmed by the Art Show are yours. We will not take them away or redistribute them. You can plan your final layout for the show.</li>
+      
+      <li>You may apply (or try to book additional panels if you need them) at any time even after the registration has been closed. However, the panels will most likely be gone by then, and you will end up on the waiting list behind the people that have applied before the deadline. We cannot guarantee that you will get a panel, but some may become available for transfer.</li>
+      
+      <li>Changes to the assignment (adding or (trying to) remove panels/tables, or changing the agent) require manual changes to the memberships of the parties involved and are thus subject to availability. Please try to apply only for a reasonable amount of panels and think early about getting an agent as we cannot guarantee that we can fulfill all change requests.</li>
+   </ul>
 
 </section>
-
-<hr />
-
-<h2>Sharing Panels</h2>
-<section class="uk-column-1-2@l">
-    
-	<p>Occasionally, an artist (let's call him/her the "main artist") brings just one or two pieces for 
-	a friend (let's call her/him the "sharing artist"), insufficient material for a panel of their own. 
-	This is fine with us, however, we need to formalize the process. In the past, this
-	has been handled informally by just entering the proper artist on the bidsheet, and not giving us any
-	data on the additional artist. This will no longer suffice.</p>
-
-	
-	<p><strong>How to apply with shared panels:</strong></p>
-	<ul>
-		<li>The application of the main artist must be filled by the artist's data, containing the artist's address 
-		and (private) email. Handle this like a normal application.</li>
-		<li>For each sharing artist: Add a complete application block.</li>
-		<li>As number of panels/tables, write in: "Shared with artist X". We will then know that this
-		applicant does not need an extra panel or table. Be aware of the age rating!</li>
-		<li>If the extra artist shall receive mail from the art show, fill the field "Private email" with
-		his or her contact address. You may leave this empty as well, in which case only the main artist
-		will receive communication.</li>
-		<li>The sharing artist will set his/her agent as the main artist.</li>
-		<li>If the main artist is already using an agent, the sharing artist must nominate the same agent.
-		It is not possible to have two different agents working with the same shared panel(s).</li>
-		<li>Since a sharing artist always has an agent by default, he/she needs to leave it to that
-		agent to handle the hanging and the pickup, even if the sharing artist is at the con.</li>
-	</ul>
-	
-	<p>It is up to the main artist (or his/her agent) how to hang the sharing artist's contributions.
-	The main artist will need to handle all issues arising with this application.</p>
-
-	<p>Now, why so formal? Do we really need to know who hangs whose art? &ndash; This is needed for
-	several reasons. First, if the main artist gets sick, what would happen to the sharing artist if
-	we don't know about him? He may be at the con, he may bring art along, but he will not be in our
-	database, and we can't give him a panel because we have never seen him apply! Given the full
-	registration of sharing artists, we will know that he was supposed to have art in the show, and
-	can use the main artist's panel to accommodate him. Second, "anonymous" sharing artists may
-	circumvent any bans, restrictions, or checks we choose to impose on that artist. And third, if
-	you tell us that you are the main artist who shares a panel with others, we might not reduce
-	your panel space as much, if such a reduction is needed.</p>
-
-</section>
-
-<hr />
-
-<h2>Signup and Application</h2>
-		
-<section class="uk-column-1-2@l">
-	<ul>
-		<li>Lines with a preceding asterisk (*) are mandatory.</li>
-		<li>The private email address is the one we will use to contact you. Most likely it is the address where the application came from. You may enter more than one address. It is up to you to keep it valid, or inform us of changes.</li>
-		<li>The badge number refers to the person that we will meet at the con, which is either you or your agent. You may give us your badge number later if you are not yet registered with Eurofurence.</li>
-		<li>Contact information is private and will normally not be disclosed. The public contact info that you can enter in the Art Show database will be included with the customer receipts  so a customer is able to contact you for questions. The email address provided with the application is not shown anywhere.</li>
-		<li>Phone is not mandatory but it may come in handy in emergency cases.</li>
-		<li>The email we receive this application from is the one we respond to. Under 'Additional email address' you can add more addresses, e.g. if you want to keep your agent informed, but this field is not mandatory.</li>
-		<li>Note that your address is mandatory. Should there be legal disputes of any sort that cannot be resolved by an email exchange, we may be obliged to pass this address to officials or involved parties. Patrons and customers will not see your address.</li>
-		<li>You may ask for half panels and half tables. Find the panel sizes, shapes, and structures in the Artist Guide section.</li>
-		<li>The number of panels/tables should be what you can fill and wish to fill. We cannot guarantee that this is the number of panels or tables that we can actually allocate to you. Desired panels that we cannot give to you immediately may become available at a later time. See below for a discussion on panel distribution.</li>
-		<li>Your example art should represent the kind of art you wish to display.</li>
-		<li>Check the last four lines like this [x] if applicable.</li>
-		<li>The panels will be distributed after March 31st. If we have not received your application by then, you will end up on the waiting list.</li>
-		<li>Be sure to fill out your application truthfully and correctly. Incomplete applications will be rejected.</li>
-	</ul>
-</section>
-
-<strong>
-	<a href="https://help.eurofurence.org/contact/artshow/application" target="_blank">Apply for a panel now</a>
-</strong>
 
 <hr />
 
 <section> 
-<h2>Read on:</h2>
-    <p><a href="artshow/rules" rel="next">Artist Rules</a></p>
+<h2 id="as-apply-further-reading">Read on:</h2>
+   <p><a href="artshow/rules" rel="next">Artist Rules</a></p>
 </section>
