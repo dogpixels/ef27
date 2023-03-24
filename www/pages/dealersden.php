@@ -10,7 +10,7 @@
 	<p>Any dealerships not initially accepted will be placed on a waiting list. If a dealership space becomes re-available, the next dealer on the waiting list will be contacted. There might be last-minute sales of canceled dealership spaces at the convention itself.</p>
 	<p><strong>It is not possible to cancel and refund a dealership package but the dealership package can be transferred from one dealer to another dealer on the waiting list.</strong> Please notify the Dealers’ Den Management about a desired  transfer of a dealership package in a timely manner.</p>
 	<p>Dealers will have setup slots on Sunday evening and early Monday to set up and prepare their dealerships. A convention badge is required for Dealers’ Den Check-In; for all dealers and their assistants.</p>
-	<p>Teardown begins on Wednesday at 18:00, the dealerships have to be cleared out and the dealers have to check out with the Dealers’ Den Staff no later than 19:00. Each dealer is responsible to clean up their dealership. </p>
+	<p>Teardown begins on Wednesday at 18:00, the dealerships have to be cleared out and the dealers have to check out with the Dealers’ Den Staff no later than 20:00. Each dealer is responsible to clean up their dealership. </p>
 	<p>Items and services in violation of applicable rules or laws must not be offered. Adult material is only permissible on public display in the “After Dark” section of the Dealers’ Den. Dealership build-ups must not reach into other dealerships or walkways. Lights, music or sound, and strong smells or fumes must be kept to a minimum.</p>
 	<p>Dealers’ Den Staff have a say on all matters. The Dealers’ Den Management’s decisions are final.</p>
 	<p>Any person requesting a dealership at Eurofurence is required to agree to and accept the “Dealers’ Den Rules” set in this document. </p>
@@ -381,7 +381,7 @@
 	<p>Any item that is deemed inappropriate may be banned from display or sale on the sole discretion of the Dealers’ Den Management or their deputies, namely the Dealers’ Den staff.</p>
 	
 	<h3 class="reset-font">Guidelines on Sales</h3>
-	<p>The Eurofurence Dealers’ Den is separated into a general area which is rated PG-13 and a “After Dark” section which is considered “Rated R”.</p>
+	<p>The Eurofurence Dealers’ Den is separated into a general area which is rated PG-13 (natural nudity without sexual focus) and an “After Dark” section which is considered “Rated R”.</p>
 	<p>
 		<ul>
 			<li>In the general area artwork containing adult material shall either be shielded by sticky notes, stickers, or a similar covering, or ideally should be kept in a clearly-marked binder which shall be kept closed by the Dealer when it is not being viewed by a customer. Binders or portfolios containing uncensored artwork shall be separate from other binders. A tag or divider between material rated PG-13 and material rated “R” is not sufficient. Any censoring of artwork (pixelation, blurring, censorship bars) must be done to the satisfaction of Dealers’ Den Staff. In the “After Dark” area censoring is not needed.</li>
@@ -396,7 +396,7 @@
 			<li>In no event shall Eurofurence e.V. be liable for damages, injuries, breakage, or loss incurred to or caused by any Dealer or Attendee.</li>
 			<li>Any action or behavior that causes significant interference with Dealers’ Den operations, excessive discomfort to attendees, staff or other dealers or otherwise endangers people or property is strictly forbidden and may result in permanent suspension of dealer status.</li>
 			<li>Time spent at their respective dealership during Dealers’ Den opening hours is on the discretion of the dealer themselves. However, a substantial presence is appreciated.</li>
-			<li>Covering the dealership with a tablecloth to protect goods from any dirt, dust and floating faux fur particles is recommended outside the official opening hours of the Dealers’ Den. Tablecloth is not provided by Eurofurence.</li>
+			<li>Covering the dealership with a tablecloth to protect goods from any dirt, dust and floating faux fur particles is recommended outside the official opening hours of the Dealers’ Den. Tablecloth used to cover dealerships during closing hours of the Dealers' Den has to be classified as "B1 - schwer entflammbar" (flame retardant) according to DIN 4102 or EN 13501-1 B - s1 d0. The tablecloth needs a certificate (usually printed on the label) meeting this class. Tablecloth is not provided by Eurofurence. </li>
 			<li>Activities that cause dirt or contamination are not allowed.</li>
 			<li>Electricity is provided with the sole intent for usage by the Dealer with their own equipment and personal devices. The responsibility to ensure functional and electrical safety of own equipment and devices rests solely with the Dealer. Air compressors, laminators or any other high-power consumption devices, must explicitly be allowed by the Dealers’ Den Management during Setup.</li>
 			<li>There is a strict <strong>no smoking</strong> policy in the whole CCH. This also includes vaping.</li>
@@ -413,7 +413,7 @@
 	<h3 class="reset-font">Closing, Cleanup, Check-out</h3>
 	<ul>
 		<li>Dealers’ Den closes on Wednesday at 18:00. After that time only dealers and their assistants are permitted entry to and presence in the Dealers’ Den.</li>
-		<li>Teardown begins immediately after closing. Dealers are expected to dismount their displays, pack up their belongings and clear the room before 19:00.</li>
+		<li>Teardown begins immediately after closing. Dealers are expected to dismount their displays, pack up their belongings and clear the room before 20:00.</li>
 		<li>Dealers are required to check out with Dealers’ Den Staff. Upon check out the dealers’ respective dealership will be checked by staff.</li>
 		<li><strong>Dealers leaving any amount of trash behind at their dealership will be charged a fixed cleaning fee of 100&nbsp;&euro;.</strong> Trash containers will be provided during Teardown by Eurofurence.</li>
 	</ul>
