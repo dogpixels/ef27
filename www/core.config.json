@@ -167,7 +167,7 @@
 		{
 			"accessible": true,
 			"inMenu": true,
-			"menuText": "Jobs",
+			"menuText": "Volunteer at Eurofurence",
 			"category": "Membership",
 			"uri": "jobs.php",
 			"title": "Jobs at Eurofurence",
