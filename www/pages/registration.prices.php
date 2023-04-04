@@ -20,7 +20,7 @@
                 <li>Sponsor convention badge</li>
                 <li>program book + honorable mention</li>
                 <li>participation in scheduled events</li>
-                <li>early access to the Dealers' Den (Monday only)</li>
+                <li>early access to the Dealers' Den (Monday and Tuesday)</li>
                 <li>priority queueing for certain events</li>
                 <li>Sponsor pack</li>
                 <li>free T-shirt</li>
