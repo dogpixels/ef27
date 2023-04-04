@@ -373,7 +373,7 @@
 				
 				<p>Aside from the training on the job, we offer an exciting work place with motivated team members, room for creative expression and explicitly invite you to bring along new ideas!</p>
 
-				<p>Do you want to know more? Does this job offer pique your interest? We would love to hear from you! <a href="https://help.eurofurence.org/contact/stage" target="_blank">Send your application (or further questions) via eMail</a>. You can apply until the <em>31.03.2023</em>. You will hear from us within two weeks after the deadline!</p>
+				<p>Do you want to know more? Does this job offer pique your interest? We would love to hear from you! <a href="https://help.eurofurence.org/contact/stage" target="_blank">Send your application (or further questions) via eMail</a>. You can apply until the <em>10.04.2023</em>. You will hear from us within two weeks after the deadline!</p>
 			</div>
 		</li>
 	</ul>
