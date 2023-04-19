@@ -43,16 +43,14 @@
     <div>
         <h3>Dates &amp; Deadlines</h3>
         <p>There are various dates and deadlines to keep in mind. Generally, you'd want to keep track of registration, booking and payment dates:</p>
-        <p>Stay tuned, registration is preparing...</p>
-        <!-- <ul>
-            <li><strong>Registration</strong> usually starts around January or February. Exact date and time is being announced at <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a>.</li>
-            <li>Membership <strong>payment</strong> due dates are provided on <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a> and within your registration confirmation emails.</li>
-            <li>Check <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a> for details on the <strong>hotel</strong> booking process and affiliated dates.</li>
-        </ul> -->
+        <ul>
+            <li>Check <a href="https://reg.eurofurence.org" rel="noreferrer">reg.eurofurence.org</a> for details on the registration process and affiliated dates.</li>
+            <li>Hotel booking is separate and up to you. Check our <a href="venue">venue page</a> for some options.</li>
+        </ul>
         
         <p><strong>Artists</strong> may additionally need to keep an eye on application deadlines for Art Show and Dealers' Den:</p>
         <ul>
-            <!-- <li><a href="artshow">Check the Art Show Page for the panel application deadline.</a></li> -->
+            <li><a href="artshow">Check the Art Show Page for the panel application deadline.</a></li>
             <li><a href="dealersden">Check the Dealers' Den Page for the table application deadline.</a></li>
         </ul>
         
@@ -67,7 +65,7 @@
         <p>Once arrived at the convention, there are two very first things to do in no particular order:</p>
         <ul>
             <li>Check in with the hotel at the reception and receive your room key.</li>
-            <li>Check in to the convention at our Registration Desk on-site and receive your convention badge, Con Book and various other goodies.<br />To find the Registration Desk, <a href="hotel/map">check available maps</a> or ask other attendees or our staff.<br/>Outside of registration hours, you can register at any time at the Security Frontdesk.</li>
+            <li>Check in to the convention at our Registration Desk on-site and receive your convention badge, Con Book and various other goodies.<br />To find the Registration Desk, <a href="venue">check for available floor maps</a> or ask other attendees or our staff.<br/>Outside of registration hours, you can register at any time at the Security Frontdesk.</li>
         </ul>
         <p>If you ever need to identify our staff, that's easy:</p>
         <ul>
