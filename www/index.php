@@ -212,7 +212,7 @@
 							</li>
 							<li>
 								<a href="https://fblacklight.org/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/fbl.gif" alt="Furry Black Light" />
+									<img src="img/cons/furrybl.jpg" alt="Furry Black Light" />
 								</a>
 							</li>
 							<li>
