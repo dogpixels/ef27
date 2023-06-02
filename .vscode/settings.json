@@ -4,6 +4,7 @@
 		"config",
 		"css",
 		"newsagent.js",
-		"core-static-generator"
+		"core-static-generator",
+		"partners-updater"
 	]
 }
