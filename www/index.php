@@ -204,37 +204,8 @@
 				<h3>Convention Network</h3>
 				<div id="links">
 					<div uk-slideshow="autoplay: true; autoplay-interval: 3000; animation: pull; ratio: 5:2">
-						<ul class="uk-slideshow-items" id="network">
-							<li>
-								<a href="https://www.cesfur.org/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/cesfur.gif" alt="CesFur" />
-								</a>
-							</li>
-							<li>
-								<a href="https://fblacklight.org/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/furrybl.jpg" alt="Furry Black Light" />
-								</a>
-							</li>
-							<li>
-								<a href="https://gdakon.org/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/gdakon.gif" alt="Gdakon" />
-								</a>
-							</li>
-							<li>
-								<a href="https://www.bayern-furs.de/" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/bayern.gif" alt="Bayern-Furs" />
-								</a>
-							</li>
-							<li>
-								<a href="https://sachsenfurs.de/en/east" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/east.gif" alt="EAST" />
-								</a>
-							</li>
-							<li>
-								<a href="https://infurnity.com" target="_blank" class="ef-hide-ext">
-									<img src="img/cons/infurnity.gif" alt="Infurnity" />
-								</a>
-							</li>
+						<ul class="uk-slideshow-items" id="partners">
+							</li>JavaScript required to view fellow conventions.</li>
 						</ul>
 					</div>
 				</div>
@@ -260,6 +231,7 @@
 		<script src="js/uikit.min.js"></script>
 		<script src="js/uikit-icons.min.js"></script>
 		<script src="js/newsagent.js"></script>
+		<script src="js/partners.js"></script>
 	</body>
 </html>
 <?php $core->end(); ?>
