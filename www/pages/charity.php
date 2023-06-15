@@ -1,75 +1,55 @@
-<h1>EF26 Charity: The Cheetah Preservation Foundation</h1>
-<section>
-	<img class="sidebox_l" src="img/pages/charity/cpf-logo_s.png" alt="CPF Logo" />
-	<img class="sidebox_r" src="img/pages/charity/cango-wildlife-ranch_logo_s.png" alt="Cango Wildlife Ranch Logo" />
-	<div class="retain just">
-		<br/><h3>Their Mission</h3>
-		<p>"To promote and fund the conservation of cheetah and other endangered species through captive breeding, research and public awareness."</p>
-	</div>
+<h1>EF27 Charity: <img src="img/pages/charity/uanimals_logo.png" alt="" /> UAnimals</h1>
+
+<section class="uk-column-1-2@l">
+	<p>Once a humanitarian movement devoted to fighting animal exploitation in circuses, everything changed on that dreadful day: the 24th of February 2022 when Russia attacked Ukraine. Ever since, they have been actively helping animals within war zones. Evacuating, providing food and medicines for shelters, or rebuilding them when they are affected by Russian aggression.</p>
+
+	<p>We at Eurofurence are proud to announce this year’s charity: <strong>UAnimals</strong></p>
+
+	<p>Before the war, they managed to organize the biggest animals rights rally in Eastern Europe. Annually tens of thousands passionate Ukrainians come together in 30 different cities, marching for animal rights.</p>
+
+	<p>During the ongoing war, the same passion and devotion is shown for those who cannot fend for themselves. But their vision does not end there. After the war, they intend to continue their efforts. Like working together with Ukrainian clothes brands, establishing “Cruelty Free Fashion” complete with Best Fashion Awards to celebrate the most ethical designers.</p>
+
+	<p>They even initiated an interfactional union “Humane State” in the Ukrainian parliament to popularize humane values and protect animals from cruelty.</p>
+
+	<p>All these past achievements and future plans show that UAnimals has the passion, the backing and the drive to make sure animals are their top priority during this dreadful war, and the fact they never lose sight of their future goals. But right now, more than ever, they need our help.</p>
+
+	<p>UAnimals is working together with Natalia Popova on a Wild Animals Rescue Center, providing temporary shelter and medical treatment for exotic animals, often rescued from the most troublesome spots in Donetsk and Luhansk. Before the war, these exotic animals were held privately, often in small cages, or in zoos. But during the war they found themselves abandoned, alone between explosions. UAnimals is often asked by military personnel to evacuate these helpless predators. The intensity of these rescue missions is perfectly summarized by one of the members of the evacuation team, Olena Bila:</p>
+
+	<p class="uk-text-italic">“Something is flying towards us, we hear a whistle and think ‘this is it.’ Then it explodes somewhere very close by, but we keep loading the lion into the car”</p>
+
+	<p>With the incoming donations, Wild Animals Rescue Center is planning to build a complex of 10 open air enclosures especially designed for various wild cats. Currently there are 36 animals within the center, including 11 lions, 3 tigers and a leopard. But during their existence they have taken care of 600 animals, not just limited to big cats, like monkeys, deer, elk, horses, foxes, raccoons, hyenas and more.</p>
+
+	<p>But their devotion does not stop there. UAnimals is working hard to call on states, international organizations, and institutions to stop the ecocide in Ukraine. Because besides countless of animals, during the war the unique eco-system of Ukraine is being damages beyond belief. The mass description of animal and plant life, pollution of air and water resources will have lasting consequences thus direct efforts to the preservation and post-war restoration will be a cause worth fighting for.</p>
 </section>
-<div class="fl-clear"></div>
-<hr/>
-<section class="two_columns just">
-	<div class="retain">
-		<h3>An endangered species</h3>
-		<img src="img/pages/charity/cheetahbaby.jpg" alt="cheetah baby" />
-		<p>The cheetah is the world's fastest land animal and they are dangerously close to extinction. Less than 7000 of the big cats remain in the wild. The Cheetah Preservation Foundation was founded in 1988, with the principal aim of ensuring the survival of the cheetah and other endangered species.<br/><br/>
-		For over 28 years the organisation has worked tirelessly for the conservation of cheetah and other endangered species – they are one of the 5 biggest cheetah centres in the world and have for many years had the highest survival rate of cubs produced globally. 
-		</p>
-	</div>
-	<div class="retain">
-		<h3>Dedicated work</h3>
-		<img src="img/pages/charity/lex.jpg" alt="Cheetah 'Lex'" />
-		<p>The Cheetah Preservation Foundation (CPF) has crafted a unique program where their visitors have the opportunity to meet some of their ambassador animals. "It is our strong belief that when a person has a close educational experience with an animal, it instils a desire to protect the species and encourages a movement to be more mindful about the exploitation of their environment".<br/><br/>
-		The conservation and education facility doesn‘t receive government funding, which is an enormous challenge with the overheads that they face. In addition to their mission, their primary focus is to ensure that all their animals receive the highest attainable standards of medical care and premium species specific diets. Their standards are exceptionally high and it all comes at a cost, as do the many hours of labour put in by our over 100 dedicated and animal loving staff.</p>
-	</div>
-	<div class="retain">
-		<h3>Cango Wildlife Ranch</h3>
-		<p>The Cheetah Preservation Foundation is a division of Cango Wildlife Ranch. CWR is one of the few facilities in South Africa to be accredited by PAAZA (Pan-African Association of Zoos and Aquaria) and WAZA (World Association of Zoos and Aquaria), showing their high standards of animal care and husbandry as well as their contributions to conservation.</p>
-		<img src="img/pages/charity/frozen-treat2.jpg" alt="Cheetah with frozen treat" /><br/>
-		<img src="img/pages/charity/thandie_1.jpg" alt="Cheetah 'Thandie'" />
-	</div>
-	<div class="retain">
-		<h3>More information and details</h3>
-		<p>More information about their work, achievements and the Cango Wildlife Ranch conservation and breeding programs you can <a href="img/pages/charity/CPF_presentation_for_Eurofurence.pdf">read in the PDF presentation they prepared for us</a>.</p>
-	</div>
-	<div class="retain">
-		<div class="yt-video-container">
-			<iframe src="https://www.youtube-nocookie.com/embed/dH092czHY_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<section class="uk-margin-top">
+	<div class="uk-child-width-1-2@l uk-grid-match" uk-grid>
+		<div>
+			<div class="uk-card uk-card-default uk-card-body">
+				<p><strong>More information and details</strong></p>
+				<p>You can find more information about UAnimals on <a href="https://uanimals.org/en/" target="_blank">https://uanimals.org/en/</a>, about their work in the past, present and plans for the future.</p>
+			</div>
+		</div>
+		<div>
+			<div class="uk-card uk-card-default uk-card-body">
+				<p><strong>How you can help</strong></p>
+				<p>As in the past years, every donation of artwork and other unique items to be used for raising money charity through our Lottery Booth, Charity Auction and Charity Display in the artshow is most welcome.</p>
+
+				<p>If you have a donation, you can pre-register your donation at <a href="http://charity.eurofurence.org" target="_blank">http://charity.eurofurence.org/</a></p>
+			</div>
 		</div>
 	</div>
 </section>
-<hr/>
-<section class="two_columns just">
-	<div class="retain">
-		<h3>How you can help</h3>
-		<p>As in past years, we are seeking donations of artwork and other unique items to be used in raising money for charity through our Lottery Booth, Charity Auction and a Charity Display in the Art Show with items for silent bidding. If you wish to make a donation, then please click the following link to pre-register your donation: <a href="https://charity.eurofurence.org/" target="_blank">charity.eurofurence.org</a></p>
-		<p>However, even if you have not pre-registered your donation, we will still happily accept extra donations during the convention (see the con book for details). You can also consider donating a percentage of your Art Show sales to charity (see more information during the online art submission process).</p>
-		<p>There will be various events, activities and other opportunities to donate money during the convention to support our charity. In addition you can always stop by at the charity booth to learn more.</p>
-		<p>The charity team and <a href="https://www.cango.co.za/cheetahpreservationfoundation/" target="_blank">The Cheetah Preservation Foundation</a> thank you from the bottom of their hearts for anything you can spare.</p>
-	</div>
-	<div class="retain">
-		<h3>Charity events</h3>
-		<p>As always, there will be lots of activities where you can support the charity, such as</p>
-		<ul>
-			<li>The charity lottery booth</li>
-			<li>The charity concert</li>
-			<li>The charity videogame tournament</li>
-			<li>The charity art auction</li>
-			<li>A charity calendar</li>
-			<li>The sunday open table</li>
+
+<section class="uk-margin-top">
+	<div uk-lightbox uk-slider="autoplay: true">
+		<ul class="uk-slider-items uk-grid">
+	<?php for ($i=1; $i < 10; $i++) { ?>
+		<li><a href="img/pages/charity/uanimals<?= $i ?>.jpg"><img src="img/pages/charity/thumbs/uanimals<?= $i ?>.jpg" alt="" /></a></li>
+	<?php } ?>
 		</ul>
 	</div>
 </section>
-<hr/>
-<section class="three_columns">
-	<div class="retain">
-		<img src="img/pages/charity/stark.jpeg" alt="Stark" />
-	</div>
-	<div class="retain">
-		<img src="img/pages/charity/lazing.jpg" alt="Cheetah relaxing" />
-	</div>
-	<div class="retain">
-		<img src="img/pages/charity/new-babies.jpg" alt="New cheetah babies" />
-	</div>
+
+<section class="uk-margin-top">
+	<p>Thank you, on behalf of the animals in Ukraine.</p>
 </section>

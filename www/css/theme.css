@@ -213,3 +213,7 @@ main.ef-landingpage {
 .ef-table-borders td {
     border: 1px solid #999999;
 }
+
+h1 img {
+    height: 1.75em;
+}
