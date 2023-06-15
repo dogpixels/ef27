@@ -72,6 +72,7 @@ foreach ($data['conventions'] as $key => $con)
     
     echo "\nstatus      : {$status}";
     echo "\ntimestamp   : {$timestamp}";
+    echo "\nage         : " . round(($now - $timestamp) / 86400) . " days";
     echo "\nhash        : {$hash}";
 
     if ($status > 0 && $status < 400)
