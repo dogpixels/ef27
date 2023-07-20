@@ -90,19 +90,19 @@
 			</thead>
 			<tbody>
 				<tr>
-					<td>11:00&nbsp;&ndash; 12:00</td>
+					<td>12:00&nbsp;&ndash; 13:00</td>
 					<td>Dealer Registration in Hall H</td>
 				</tr>
 				<tr>
-					<td>11:00&nbsp;&ndash; 12:00</td>
+					<td>12:00&nbsp;&ndash; 13:00</td>
 					<td>Dealers / Dealer Assistants only</td>
 				</tr>
 				<tr>
-					<td>12:00&nbsp;&ndash; 13:00</td>
+					<td>13:00&nbsp;&ndash; 14:00</td>
 					<td>Admission for Super Sponsors + Sponsors only</td>
 				</tr>
 				<tr>
-					<td>13:00&nbsp;&ndash; 18:00</td>
+					<td>14:00&nbsp;&ndash; 18:00</td>
 					<td>Admission for all Attendees</td>
 				</tr>
 				<tr>
