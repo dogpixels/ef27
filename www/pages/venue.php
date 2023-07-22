@@ -51,16 +51,18 @@
 				<div class="uk-card-body">
 					<h3 class="uk-card-title reset-font">Ground Floor</h3>
 					<ul>
-						<li>Entrance</li>
-						<li>Registration</li>
-						<li>More To Be Announced</li>
+						<li>Art Show (Hall H)</li>
+						<li>Artist Lounge (Foyer 3 + H)</li>
+						<li>Con Store (Foyer 3 + H)</li>
+						<li>Dances (Hall 4)</li>
+						<li>Dealers' Den (Hall H)</li>
+						<li>Fursuit Lounge (Hall H)</li>
+						<li>Fursuit Photoshoot (Hall H)</li>
+						<li>Locker Service (Foyer 3 + H)</li>
+						<li>Registration (Check-In 1 &amp; 2)</li>
+						<li>Stage (Hall 3)</li>
 					</ul>
 				</div>
-				<!-- <div class="uk-card-media-bottom">
-					<div uk-lightbox>
-						<a href="pages/venue/cch_plan-iso-eg_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-eg_150dpi_en_2.jpg" alt="Ground Floor Map" /></a>
-					</div>
-				</div> -->
 			</div>
 		</div>
 		<div>
@@ -73,17 +75,12 @@
 				<div class="uk-card-body">
 					<h3 class="uk-card-title reset-font">1st Floor</h3>
 					<ul>
-						<li>To Be Announced</li>
+						<li>Panels (CCH Hall 5 - 10 &amp; Radisson Blue)</li>
 					</ul>
 				</div>
-				<!-- <div class="uk-card-media-bottom">
-					<div uk-lightbox>
-						<a href="pages/venue/cch_plan-iso-1og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-1og_150dpi_en_2.jpg" alt="1st Floor Map" /></a>
-					</div>
-				</div> -->
 			</div>
 		</div>
-		<div>
+		<!-- <div>
 			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
 				<div class="uk-card-media-top">
 					<div uk-lightbox>
@@ -96,14 +93,9 @@
 						<li>To Be Announced</li>
 					</ul>
 				</div>
-				<!-- <div class="uk-card-media-bottom">
-					<div uk-lightbox>
-						<a href="pages/venue/cch_plan-iso-2og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-2og_150dpi_en_2.jpg" alt="2nd Floor Map" /></a>
-					</div>
-				</div> -->
 			</div>
-		</div>
-		<div>
+		</div> -->
+		<!-- <div>
 			<div class="uk-card uk-card-default" uk-scrollspy="cls:uk-animation-fade">
 				<div class="uk-card-media-top">
 					<div uk-lightbox>
@@ -116,13 +108,8 @@
 						<li>To Be Announced</li>
 					</ul>
 				</div>
-				<!-- <div class="uk-card-media-bottom">
-					<div uk-lightbox>
-						<a href="pages/venue/cch_plan-iso-3og_150dpi_en.jpg"><img src="pages/venue/thumbs/cch_plan-iso-3og_150dpi_en_2.jpg" alt="3rd Floor Map" /></a>
-					</div>
-				</div> -->
 			</div>
-		</div>
+		</div> -->
 	</div>
 </section>
 
