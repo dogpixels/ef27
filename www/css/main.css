@@ -53,6 +53,12 @@ a[href^="http"]:not([class^="ef-hide-ext"]):after {
 	background-size: contain;
 }
 
+/* fix anchor targeting */
+:target {
+	border-top: var(--header-height) solid transparent;
+	margin-top: calc(0 - var(--header-height));
+}
+
 /* flex layout utility */
 .flex-container { /* todo: still needed? */
 	display: flex;
