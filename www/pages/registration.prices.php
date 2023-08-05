@@ -36,7 +36,7 @@
                 <li>Super Sponsor convention badge</li>
                 <li>program book + honorable mention</li>
                 <li>participation in scheduled events</li>
-                <li>super-early access to the Dealers' Den (Monday only)</li>
+                <li>super-early access to the Dealers' Den (Monday and Tuesday)</li>
                 <li>priority queueing for certain events</li>
                 <li>Super Sponsor pack</li>
                 <li>free T-shirt</li>
