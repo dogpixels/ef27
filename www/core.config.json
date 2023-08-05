@@ -11,7 +11,7 @@
 		"start": "2023-09-03",
 		"end": "2023-09-07",
 		"charity": "UAnimals",
-		"goh": "(TBA!)",
+		"goh": "Pechschwinge",
 		"opening": "2023-09-03T17:00:00+02:00"
 	},
 
@@ -277,15 +277,15 @@
 
 		"goh":
 		{
-			"accessible": false,
-			"inMenu": false,
+			"accessible": true,
+			"inMenu": true,
 			"menuText": "Guests of Honor",
 			"category": "Program",
 			"uri": "goh.php",
 			"title": "Guests of Honor",
-			"description": "Again we have some special people amongst us - our Guests of Honor. This year we have {goh}.",
+			"description": "We are honored to welcome this year's Guest of Honor: {goh}.",
 			"keywords": "Special guests, GOH, Guests of Honor",
-			"ogpImage": "",
+			"ogpImage": "kampf_perldrache_by_pechschwinge.jpg",
 			"robots": ""
 		},
 		
