@@ -9,6 +9,7 @@
                 <li>Standard convention badge</li>
                 <li>program book</li>
                 <li>participation in scheduled events</li>
+            </ul>
         </div>
     </div>
     
