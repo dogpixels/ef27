@@ -305,11 +305,11 @@
 		
 		"schedule":
 		{
-			"accessible": false,
-			"inMenu": false,
-			"menuText": "schedule",
+			"accessible": true,
+			"inMenu": true,
+			"menuText": "Schedule",
 			"category": "Program",
-			"uri": "https://www.eurofurence.org/schedule/",
+			"uri": "https://www.eurofurence.org/EF27/schedule/",
 			"title": "",
 			"description": "",
 			"keywords": "",
