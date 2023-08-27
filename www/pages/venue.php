@@ -122,9 +122,9 @@
 	<p>There are several noteworthy points to mention:</p>
 	<ul>
 		<li>Entrance is free.</li>
-		<li><a href="https://plantenunblomen.hamburg.de/service/3834054/oeffnungszeiten-artikel/" target="_blank">Daily opening times: 7:00&mdash;23:00</a></li>
-		<li><a href="https://plantenunblomen.hamburg.de/essen-trinken/" target="_blank">There are several cafés, ice cream points and a restaurant.</a></li>
-		<li><a href="https://plantenunblomen.hamburg.de/veranstaltungskalender/" target="_blank">There may be events and shows taking place during Eurofurence.</a></li>
+		<li><a href="https://plantenunblomen.hamburg.de/park-service/oeffnungszeiten-artikel-565860" target="_blank">Daily opening times: 7:00&mdash;23:00</a></li>
+		<li><a href="https://plantenunblomen.hamburg.de/essen-und-trinken-gastronomie" target="_blank">There are several cafés, ice cream points and a restaurant.</a></li>
+		<li><a href="https://plantenunblomen.hamburg.de/veranstaltungen" target="_blank">There may be events and shows taking place during Eurofurence.</a></li>
 	</ul>
 
 	<p>Check out <a href="https://plantenunblomen.hamburg.de/parkplan/" target="_blank">the official map of all points of interest</a>.</p>
