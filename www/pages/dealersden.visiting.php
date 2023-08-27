@@ -47,7 +47,7 @@
 				</div>
 			</li>
 			<li><strong>Lost & Found:</strong> Misplaced something? Head to the Lost & Found booth located at the Security Desk or approach the team at the Dealers’ Den Help desk.</li>
-			<li><strong>NeurodiversityAdvisory:</strong>  The Dealers' Den is a lively and bustling area, which can sometimes result in crowded conditions, elevated noise levels, and various scents. This environment may not be comfortable for everyone, particularly for neurodiverse individuals who may be sensitive to sensory stimuli.
+			<li><strong>Neurodiversity Advisory:</strong>  The Dealers' Den is a lively and bustling area, which can sometimes result in crowded conditions, elevated noise levels, and various scents. This environment may not be comfortable for everyone, particularly for neurodiverse individuals who may be sensitive to sensory stimuli.
 			If you find the ambiance overwhelming or need assistance, you have multiple options:</li>
 			<ul>
 				<li>You can approach a member of the Dealers' Den Team or Security, who are here to assist you in a discreet and efficient manner.</li>
