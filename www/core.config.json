@@ -249,8 +249,8 @@
 
 		"glympse":
 		{
-			"accessible": false,
-			"inMenu": false,
+			"accessible": true,
+			"inMenu": true,
 			"menuText": "Glympse Map",
 			"category": "Membership",
 			"uri": "glympse.php",

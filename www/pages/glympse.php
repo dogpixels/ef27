@@ -5,7 +5,7 @@
 
 	<br />
 
-	<iframe id="glympser" width="800" height="600" src="//glympse.com/ext/!eurofurence?twt=Eurofurence&hash=ef23" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+	<iframe id="glympser" width="1280" height="720" src="//glympse.com/!eurofurence" scrolling="no" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 	<!--<button id="full-glympser" onclick="fullglympse()">Open Fullscreen View</button>-->
 	<br />
 
