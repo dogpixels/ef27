@@ -59,7 +59,7 @@
    	 
    	 <p>Final winners of the art are announced by bulletin board. The lists will be placed in an easily accessible place, most likely in front of the Art Show entrance.</p>
    	 
-   	 <p>Winners are also notified through the Eurofurence app, if they have this app installed and are signed in with their Eurofurence account.</p>
+   	 <!-- <p>Winners are also notified through the Eurofurence app, if they have this app installed and are signed in with their Eurofurence account.</p> -->
    	 
    	 <p>Buyers must pick up their purchase at the designated art pickup times, and pay cash. Credit cards or cheques of any kind are not accepted. We will try to keep the lines as short as possible.</p>
    	 
