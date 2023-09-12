@@ -1,2 +1,7 @@
 _workfiles/
 _deploy/
+
+# Lost and Found
+www/img/pages/lostandfound/image/
+www/img/pages/lostandfound/thumb/
+www/pages/lostandfound/data.json
